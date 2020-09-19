@@ -30,7 +30,7 @@ twitter_username: elementaryblog
 github_username:  anupanandsingh
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
