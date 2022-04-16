@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: School of Mathematics, University of Leeds, United Kingdom
+subtitle: School of Mathematics, University of Leeds
 
 profile:
   align: left
