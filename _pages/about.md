@@ -5,9 +5,9 @@ permalink: /
 subtitle: School of Mathematics, University of Leeds
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  address: >
+  align:
+  image:
+  address: 
 
 
 
