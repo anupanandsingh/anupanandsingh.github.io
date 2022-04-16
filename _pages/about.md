@@ -5,7 +5,7 @@ permalink: /
 subtitle: School of Mathematics, University of Leeds, United Kingdom
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   address: >
     <p>555 your office number</p>
