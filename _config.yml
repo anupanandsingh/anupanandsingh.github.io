@@ -8,7 +8,7 @@ middle_name: Anand
 last_name: Singh
 email: anupanandsingh@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Studying mathematical physics at the University of Leeds (https://github.com/bogoli/-folio) design.
+  Studying mathematical physics at the University of Leeds
 footer_text:
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
