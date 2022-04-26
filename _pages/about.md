@@ -16,9 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Physics and mathematics inspire each other in beautiful ways. While the physical laws of nature find an expression in the language of mathematics, ideas from physics have led to solutions to deep problems in mathematics.
-
-It is this interplay between the two disciplines that 
+Physics and mathematics inspire each other in beautiful ways. The laws of physics find an expression in the language of mathematics. And deep problems in mathematics It is this interplay between the two that I'm drawn towards as a theorist.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
