@@ -6,14 +6,14 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Anup
 middle_name: Anand
 last_name: Singh
-email: anupanandsingh@gmail.com
+email: anupanandsingh@protonmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Studying mathematical physics at the University of Leeds
 footer_text:
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: energy.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://anupanandsingh.github.io/ # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
