@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-description: publications by categories in reversed chronological order.
-years: [2018, 2020]
+permalink: /research/
+title: research
+description:
 nav: true
 ---
 <!-- _pages/publications.md -->
