@@ -20,4 +20,4 @@ Physics and mathematics inspire each other in beautiful ways. It is this interpl
 
 Together with my doctoral supervisor Dr. Vincent Caudrelier, I am trying to further our understanding of (finite- and infinite-dimensional) classical integrable theories and develop new methods to study their covariant quantisation. Much of my work is based in the theory of Lagrangian multiforms, a relatively new framework that captures integrability purely from a variational perspective. You can read more about some of my favourite themes on my *[Research]()* page.
 
-Previously, I have worked on some combinatorial aspects of causal set theory, an approach to quantum gravity.
+Previously, I have worked on some combinatorial aspects of causal set theory, an approach to quantum gravity. Yes
