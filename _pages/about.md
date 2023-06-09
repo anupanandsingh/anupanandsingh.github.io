@@ -20,4 +20,4 @@ Physics and mathematics inspire each other in beautiful ways. It is this interpl
 
 An integrable model -- characterised by a set of equations that can be solved exactly -- is highly symmetrical and has fascinating mathematical structures. And while most integrable theories are only toy models -- and not "true" theories describing physical laws -- they offer great insights into the fundamental principles underlying the laws of nature.
 
-You can check out my *[Research](http://anupanand.space/research/)* page to find out more about the ideas I am pursuing at the moment and some that I have spent time thinking about in the past.
+You can check out my [Research](http://anupanand.space/research/) page to find out more about the ideas I am pursuing at the moment and some that I have spent time thinking about in the past.
