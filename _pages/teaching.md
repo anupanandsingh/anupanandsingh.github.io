@@ -6,4 +6,4 @@ description:
 nav: true
 ---
 
-\**Autumn 2022**
+**Autumn 2022**
