@@ -22,4 +22,4 @@ An integrable model -- characterised by a set of equations that can be solved ex
 
 Much of my current work is rooted in the theory of Lagrangian multiforms, a relatively new framework that captures integrability purely from a variational perspective. The theory marks an important departure from the traditional point of view on integrability that has been based on the Hamiltonian formalism. Moreover, the Lagrangian multiform approach allows for the possibility of using path integrals to quantise integrable theories in a covariant manner, overcoming the drawback of canonical quantisation which breaks the Lorentz covariance of the underlying spacetime coordinates.
 
-You can check out my [Research](http://anupanand.space/research/) page to find out more about the ideas I am pursuing at the moment and some that I have spent time thinking about in the past.
+You can check out my research page to find out more about the ideas I am pursuing at the moment and some that I have spent time thinking about in the past.
