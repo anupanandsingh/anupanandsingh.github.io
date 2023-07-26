@@ -15,7 +15,7 @@ nav: true
 
 </div>
 
-Much of my current work is rooted in the theory of Lagrangian multiforms, a relatively new framework that captures integrability purely from a variational perspective. The theory marks an important departure from the traditional point of view on integrability that has been based on the Hamiltonian formalism. Moreover, the Lagrangian multiform approach allows for the possibility of using path integrals to quantise integrable theories in a covariant manner, overcoming the drawback of canonical quantisation which breaks the Lorentz covariance of the underlying spacetime coordinates.
+Lagrangian multiforms mark an important departure from the traditional point of view on integrability that has been based on the Hamiltonian formalism. Moreover, the Lagrangian multiform approach allows for the possibility of using path integrals to quantise integrable theories in a covariant manner, overcoming the drawback of canonical quantisation which breaks the Lorentz covariance of the underlying spacetime coordinates.
 
 Previously, as a visiting student at the Raman Research Institute, Bengaluru, I worked on causal set theory, focusing in particular on a problem with a rather combinatorial flavour, which helped establish that certain classes of non-manifold-like causal sets are suppressed even though they are more typical than manifold-like causal sets.
 
