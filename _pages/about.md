@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postgraduate Researcher <br> School of Mathematics, University of Leeds
+subtitle: Postgraduate Researcher <br> School of Mathematics, University of Leeds <br> United Kingdom
 
 profile:
   align:
