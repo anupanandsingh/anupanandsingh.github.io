@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: School of Mathematics, University of Leeds
 
@@ -20,4 +20,4 @@ Physics and mathematics inspire each other in beautiful ways. It is this interpl
 
 An integrable model -- characterised by a set of equations that can be solved exactly -- is highly symmetrical and has fascinating mathematical structures. And while most integrable theories are only toy models -- and not "true" theories describing physical laws -- they offer great insights into the fundamental principles underlying the laws of nature.
 
-Much of my current work is rooted in the theory of Lagrangian multiforms, a relatively new framework that captures integrability purely from a variational perspective. More details on the ideas I am pursuing at the moment (and some that I have worked on in the past) can be found <a href="https://anupanand.space/research/" target="_self">**here**</a>. Or head <a href="https://arxiv.org/a/singh_a_12.html" target="_self">**here**</a> for my arXiv preprints. You can also check out my <a href="https://scholar.google.com/citations?user=iajG9P8AAAAJ" target="_self">**Google Scholar**</a> and <a href="https://inspirehep.net/authors/1817611" target="_self">**iNSPIRE HEP**</a> profiles.
+Much of my current work is rooted in the theory of Lagrangian multiforms, a relatively new framework that captures integrability purely from a variational perspective. More details on the ideas I am pursuing at the moment (and some that I have worked on in the past) can be found **<a href="https://anupanand.space/research/" target="_self">here</a>**. Or head <a href="https://arxiv.org/a/singh_a_12.html" target="_self">here</a> for my arXiv preprints. You can also check out my <a href="https://scholar.google.com/citations?user=iajG9P8AAAAJ" target="_self">Google Scholar</a> and <a href="https://inspirehep.net/authors/1817611" target="_self">iNSPIRE HEP</a> profiles.
