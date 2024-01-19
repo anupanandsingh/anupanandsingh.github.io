@@ -11,22 +11,14 @@ nav: true
 MATH2080 Further Linear Algebra (Workshop)
 University of Leeds, Autumn 2023
 
-<br>
-
 MATH1005 Core Mathematics (Tutorial)
 University of Leeds, Spring 2023
-
-<br>
 
 MATH1055 Numbers and Vectors (Tutorial)
 University of Leeds, Autumn 2023
 
-<br>
-
 MATH1050 Calculus and Mathematical Analysis (Tutorial)
 University of Leeds, Autumn 2023
-
-<br>
 
 MATH1005 Core Mathematics (Tutorial)
 University of Leeds, Autumn 2023
