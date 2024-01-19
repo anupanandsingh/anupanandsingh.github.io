@@ -23,8 +23,12 @@ Much of my current work is rooted in the theory of Lagrangian multiforms, a rela
 
 <hr>
 
+<h4>Causal set theory</h4>
+
 Previously, as a visiting student at the Raman Research Institute, Bengaluru, I worked on causal set theory, focusing in particular on a problem with a rather combinatorial flavour, which helped establish that certain classes of non-manifold-like causal sets are suppressed even though they are more typical than manifold-like causal sets.
 
 <hr>
+
+<h4>Chaos in field theory and gravity</h4>
 
 Prior to that, I was a part of the five-year BS-MS dual degree programme at the Indian Institute of Science Education and Research (IISER) Pune. I spent my final year of the programme at the International Centre for Theoretical Sciences (ICTS-TIFR), Bengaluru, under the guidance of Prof. Spenta Wadia, learning how to think about physics. As a part of my MS project done under his supervision, I made attempts to better understand the scrambling of information by black holes using ideas from holography, quantum information and chaotic dynamics. A novel result from the project was a new derivation of the effective action of the charged version of the Sachdev-Ye-Kitaev model achieved by reducing the original theory of Majorana fermions to a theory of bilocal fields.
