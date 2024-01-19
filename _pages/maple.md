@@ -2,7 +2,7 @@
 layout: page
 permalink: /maple/
 title: MaPLe
-description: **MA**thematical **P**hysics at **LE**eds Seminar Series
+description: MAthematical Physics at LEeds Seminar Series
 nav: false
 ---
 <!-- _pages/publications.md -->
