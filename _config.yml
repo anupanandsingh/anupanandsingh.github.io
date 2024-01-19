@@ -6,11 +6,11 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Anup
 middle_name: Anand
 last_name: Singh
-email: anupanandsingh@protonmail.com
+email: anupanandsingh@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Studying mathematical physics at the University of Leeds
 footer_text:
-keywords: anup-anand-singh, anup-math, anup-physics, mathematics, physics, mathematical-physics, integrability  # add your own keywords or leave empty
+keywords: anup-anand-singh, anup-math, anup-physics, mathematics, physics, mathematical-physics, integrability, lagrangian-multiform, quantisation, gaudin-model, coadjoint-orbit  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: letter-a1.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -89,7 +89,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+#disqus_shortname: anup # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
