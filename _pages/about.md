@@ -21,3 +21,5 @@ Physics and mathematics inspire each other in beautiful ways. It is this interpl
 More details about my current work (and some past projects) can be found **<a href="https://anupanand.space/research/" target="_self">here</a>**. Or head **<a href="https://arxiv.org/a/singh_a_12.html" target="_self">here</a>** for my arXiv preprints. You can also check out my **<a href="https://scholar.google.com/citations?user=iajG9P8AAAAJ" target="_self">Google Scholar</a>** and **<a href="https://inspirehep.net/authors/1817611" target="_self">iNSPIRE HEP</a>** profiles.
 
 I can be reached at **anupanandsingh[at]gmail.com**.
+
+<img title="" alt="" src="assests/img/leo-anup-6.jpg">
