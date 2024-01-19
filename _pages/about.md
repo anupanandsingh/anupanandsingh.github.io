@@ -6,7 +6,7 @@ subtitle: Postgraduate Researcher <br> School of Mathematics, University of Leed
 
 profile:
   align: right
-  image: leo-anup-6
+  image: leo-anup-6.jpg
   address:
 
 
