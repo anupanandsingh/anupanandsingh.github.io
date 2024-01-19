@@ -5,8 +5,8 @@ permalink: /
 subtitle: Postgraduate Researcher <br> School of Mathematics, University of Leeds
 
 profile:
-  align: right
-  image: leo-anup-6.jpg
+  align:
+  image:
   address:
 
 
