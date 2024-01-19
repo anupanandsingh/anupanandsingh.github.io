@@ -6,7 +6,8 @@ description:
 nav: true
 ---
 
-<h4>Teaching</h4>
+**MATH2230 Discrete Mathematics (Workshop)**\
+University of Leeds, Spring 2024
 
 **MATH2080 Further Linear Algebra (Workshop)**\
 University of Leeds, Autumn 2023
