@@ -19,6 +19,8 @@ nav: true
 
 Despite its usefulness and elegance as a mathematical framework to describe our physical universe, the Lagrangian formalism has traditionally found little utility in the theory of integrable systems. Over the decades, our investigations into the mathematical underpinnings of integrability have instead been almost completely tied to the Hamiltonian formalism.
 
+We believe to have taken a good first step in this direction: using the theory of Lie dialgebras as a guiding principle, we have been able to develop a framework that can be used to construct Lagrangian multiforms of finite-dimensional integrable systems starting from just the bare essential algebraic data.
+
 Much of my current work is rooted in the theory of Lagrangian multiforms, a relatively new framework that captures integrability purely from a variational perspective. The theory marks an important departure from the traditional point of view on integrability that has been based on the Hamiltonian formalism. Moreover, the Lagrangian multiform approach allows for the possibility of using path integrals to quantise integrable theories in a covariant manner, overcoming the drawback of canonical quantisation which breaks the Lorentz covariance of the underlying spacetime coordinates.
 
 <hr>
