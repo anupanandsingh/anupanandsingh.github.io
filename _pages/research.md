@@ -26,7 +26,7 @@ Prior to that, I was a part of the five-year BS-MS dual degree programme at the 
 
 <hr>
 
-<h3> Preprints and Publications </h3>
+<h3> Preprints and publications </h3>
 
 <div class="publications">
 
