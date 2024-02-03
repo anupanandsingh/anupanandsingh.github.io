@@ -8,9 +8,13 @@ nav: true
 
 <h4>Lagrangian multiforms, integrability, and quantisation</h4>
 
-Much of my current work is rooted in the $$r$$-matrix approach to integrable systems and the theory of Lagrangian multiforms. The <b><a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">classical $$r$$-matrix</a></b> -- introduced by E. K. Sklyanin in the 1970s -- is an intriguing object that makes integrable systems more amenable to geometric and algebraic approaches.
+Much of my current work is rooted in the $$r$$-matrix approach to integrable systems and the theory of Lagrangian multiforms. The <b><a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">classical $$r$$-matrix</a></b> -- introduced by E. K. Sklyanin in the 1970s -- is an intriguing object that brings important algebraic and geometric insights into the study of integrable systems. The notion of Lagrangian multiforms, on the other hand, is relatively more recent and aims to capture integrability purely from a variational point of view, using a generalised variational principle applied to an appropriate generalisation of a classical action.
 
-Despite its usefulness and elegance as a mathematical framework to describe our physical universe, the Lagrangian formalism has traditionally found little utility in the theory of integrable systems. We believe to have taken a <b><a href="https://arxiv.org/abs/2307.07339" target="_self">first step</a></b> in this direction: using the theory of Lie dialgebras as a guiding principle, we have been able to develop a framework that can be used to construct Lagrangian multiforms of finite-dimensional integrable systems starting from just the bare essential algebraic data. Moreover, the Lagrangian multiform approach allows for the possibility of using path integrals to quantise integrable theories in a covariant manner, overcoming the drawback of canonical quantisation which breaks the Lorentz covariance of the underlying spacetime coordinates.
+Writing down Lagrangian multiform for a given integrable system in a systematic manner is a non-trivial task. A part of my work is aimed at constructing a framework that can provide an efficient way of describing all the Lagrangian coefficients in one formula. Using the theory of Lie dialgebras as guiding principle, we have achieved <b><a href="https://arxiv.org/abs/2307.07339" target="_self">this</a></b> for a large class of finite-dimensional integrable systems.
+
+Together with V. Caudrelier, my doctoral supervisor, and our collaborators, I am also exploring connections between our Lie dialgebra-based framework and the gauge-theoretic approach to integrability that has...
+
+Finally, a long*ish*-term goal of my doctoral project is to employ the new set of ideas that the theory of Lagrangian multiforms bring to the discussion to explore the the possibility of using path integrals to quantise integrable theories in a covariant manner, overcoming the drawback of canonical quantisation which breaks the Lorentz covariance of the underlying spacetime coordinates.
 
 <hr>
 
