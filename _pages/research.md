@@ -12,10 +12,6 @@ Much of my current work is rooted in the $$r$$-matrix approach to integrable sys
 
 A part of my work is aimed at developing a framework for constructing Lagrangian multiforms in a systematic manner, which, in general, is a rather non-trivial task. Incorporating ingredients and ideas from the Hamiltonian framework -- in particular, the classical $$r$$-matrix and the theory of Lie dialgebras -- we achieved <b><a href="https://arxiv.org/abs/2307.07339" target="_self">this goal</a></b> for a large class of finite-dimensional integrable systems. A long*ish*-term goal of my doctoral project is to employ this framework to explore the the possibility of using path integrals to quantise integrable theories in a covariant manner, overcoming the drawback of canonical quantisation which breaks the Lorentz covariance of the underlying spacetime coordinates.
 
-<!--Together with V. Caudrelier, my doctoral supervisor, and our collaborators, I am also exploring connections between our Lie dialgebra-based framework and the gauge-theoretic approach to integrability that has...
-
-we show how the theory of Lie dialgebras [21] can be used to construct systematically a Lagrangian multiform for any finite-dimensional system which falls within the Lie dialgebra framework.-->
-
 
 <hr>
 
