@@ -8,13 +8,14 @@ nav: true
 
 <h4>Lagrangian multiforms, integrability, and quantisation</h4>
 
-<details>
-<summary>
-Much of my current work is rooted in the $$r$$-matrix approach to integrable systems and the theory of Lagrangian multiforms. The <b><a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">classical $$r$$-matrix</a></b> -- introduced by E. K. Sklyanin in the 1970s -- is an intriguing object that brings important algebraic and geometric insights into the study of integrable systems. However, the traditional perspective on integrability has been predominantly based on the Hamiltonian formalism.</summary> The notion of <b><a href="https://matsvermeeren.xyz/wp-content/uploads/2023/08/poster-fdis2023-online.pdf" target="_self">Lagrangian multiforms</a></b> marks a departure from this point of view and captures integrability variationally, using a generalised variational principle applied to an appropriate generalisation of a classical action.
+Much of my current work is rooted in the $$r$$-matrix approach to integrable systems and the theory of Lagrangian multiforms. The <b><a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">classical $$r$$-matrix</a></b> -- introduced by E. K. Sklyanin in the 1970s -- is an intriguing object that brings important algebraic and geometric insights into the study of integrable systems. However, the traditional perspective on integrability has been predominantly based on the Hamiltonian formalism. The notion of <b><a href="https://matsvermeeren.xyz/wp-content/uploads/2023/08/poster-fdis2023-online.pdf" target="_self">Lagrangian multiforms</a></b> marks a departure from this point of view and captures integrability variationally, using a generalised variational principle applied to an appropriate generalisation of a classical action.
 
 A part of my work is aimed at developing a framework for constructing Lagrangian multiforms in a systematic manner, which, in general, is a rather non-trivial task. Incorporating ingredients and ideas from the Hamiltonian framework -- in particular, the classical $$r$$-matrix and the theory of Lie dialgebras -- we achieved <b><a href="https://arxiv.org/abs/2307.07339" target="_self">this goal</a></b> for a large class of finite-dimensional integrable systems. A long*ish*-term goal of my doctoral project is to employ this framework to explore the the possibility of using path integrals to quantise integrable theories in a covariant manner, overcoming the drawback of canonical quantisation which breaks the Lorentz covariance of the underlying spacetime coordinates.
 
-</details>
+<!--Together with V. Caudrelier, my doctoral supervisor, and our collaborators, I am also exploring connections between our Lie dialgebra-based framework and the gauge-theoretic approach to integrability that has...
+
+we show how the theory of Lie dialgebras [21] can be used to construct systematically a Lagrangian multiform for any finite-dimensional system which falls within the Lie dialgebra framework.-->
+
 
 <hr>
 
