@@ -12,11 +12,13 @@ Much of my current work is rooted in the <b><a href="https://link.springer.com/a
 
 A long*ish*-term goal of my doctoral project is to employ this framework together with the path integral formalism to quantise integrable theories in a covariant manner.
 
+<hr>
 
 <h4>Causal set theory</h4>
 
 As a visiting student at the Raman Research Institute in 2019-2020, Bengaluru, I worked on causal set theory, an approach to quantum gravity that postulates that spacetime is fundamentally discrete and replaces the spacetime continuum with locally finite partially ordered sets. The <b><a href="https://arxiv.org/abs/2009.07623" target="_self">result</a></b> from this project, a collaboration with Dr. Abhishek Mathur and Prof. Sumati Surya, helped establish that certain classes of non-manifold-like causal sets are suppressed even though they are more typical than manifold-like causal sets.
 
+<hr>
 
 <h4>Black holes, information scrambling, and quantum chaos</h4>
 
