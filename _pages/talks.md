@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
+permalink: /talks/
+title: Talks
 description:
 nav: false
 ---
