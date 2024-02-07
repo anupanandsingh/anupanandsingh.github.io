@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /preprints-publications/
+permalink: /publications/
 title: Preprints and Publications
 description:
 nav: false
