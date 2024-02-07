@@ -22,7 +22,7 @@ As a visiting student at the Raman Research Institute, Bengaluru, I worked on <b
 
 <h4>Black holes, information scrambling, and quantum chaos</h4>
 
-For my <b><a href="http://dr.iiserpune.ac.in:8080/xmlui/bitstream/handle/123456789/1047/MS%20Thesis%20-%20Anup%20Anand%20Singh.pdf" target="_self">MS thesis</a></b> work done under the supervision of Prof. Spenta Wadia at the International Centre for Theoretical Sciences (ICTS-TIFR), Bengaluru, I tried to better understand the scrambling of information by black holes using ideas from holography, quantum information and chaotic dynamics. A novel result from the project was a derivation of the effective action of the charged version of the Sachdev-Ye-Kitaev model achieved by reducing the original theory of Majorana fermions to a theory of bilocal fields.
+For my <b><a href="http://dr.iiserpune.ac.in:8080/xmlui/bitstream/handle/123456789/1047/MS%20Thesis%20-%20Anup%20Anand%20Singh.pdf" target="_self">MS thesis</a></b> work done under the supervision of Prof. Spenta Wadia at the International Centre for Theoretical Sciences (ICTS-TIFR), Bengaluru, I tried to better understand the scrambling of information by black holes using ideas from holography, quantum information and chaotic dynamics. A new result from the project was a derivation of the effective action of the charged version of the Sachdev-Ye-Kitaev model achieved by reducing the original theory of Majorana fermions to a theory of bilocal fields.
 
 <hr>
 
