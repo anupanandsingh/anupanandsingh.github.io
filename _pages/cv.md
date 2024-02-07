@@ -2,8 +2,7 @@
 layout: cv
 permalink: /cv/
 title: Curriculum Vitae
-nav: true
-nav_order: 3
+nav: false
 cv_pdf: example_pdf.pdf
 description: Updated July 2023
 ---

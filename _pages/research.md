@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 description:
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 <h4>Lagrangian multiforms, integrability, and quantisation</h4>
