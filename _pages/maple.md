@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<h4> <b>Ma</b>thematical <b>P</b>hysics at <b>Le</b>eds <br> Seminar Series</h4>
+<h4> **Ma**thematical **P**hysics at **Le**eds <br> Seminar Series</h4>
 
 Launched February 2024, MaPLe is an attempt to foster interactions among researchers from across the University of Leeds to give talks on themes in mathematical physics, broadly construed.
 
