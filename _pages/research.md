@@ -9,9 +9,7 @@ nav_order: 4
 
 <h4>Lagrangian multiforms, integrability, and quantisation</h4>
 
-Much of my current work is rooted in the <b><a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">$$r$$-matrix</a></b> approach to integrable systems and the theory of <b><a href="https://arxiv.org/abs/0903.4086" target="_self">Lagrangian multiforms</a></b>. Together with my doctoral supervisor Dr. Vincent Caudrelier and our collaborators, I am developing a framework for constructing Lagrangian multiforms in a systematic manner, which is a rather non-trivial task, in general. Incorporating ingredients and ideas from the Hamiltonian framework for integrability -- in particular, the theory of Lie dialgebras -- we have achieved <b><a href="https://arxiv.org/abs/2307.07339" target="_self">this</a></b> for a large class of finite-dimensional integrable systems.
-
-At the moment, I am working towards incorporating affine models into our framework. A related long*ish*-term goal is to use our construction together with the path integral formalism to quantise integrable field theories in a covariant manner.
+Much of my current work is rooted in the <b><a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">$$r$$-matrix</a></b> approach to integrable systems and the theory of <b><a href="https://arxiv.org/abs/0903.4086" target="_self">Lagrangian multiforms</a></b>. Together with my doctoral supervisor Dr. Vincent Caudrelier and our collaborators, I am developing a framework for constructing Lagrangian multiforms in a systematic manner, which is a rather non-trivial task, in general. Incorporating ingredients and ideas from the Hamiltonian framework for integrability -- in particular, the theory of Lie dialgebras -- we have achieved <b><a href="https://arxiv.org/abs/2307.07339" target="_self">this</a></b> for a large class of finite-dimensional integrable systems. At the moment, I am working towards incorporating affine models into our framework. A related long*ish*-term goal is to use our construction together with the path integral formalism to quantise integrable field theories in a covariant manner.
 
 <hr>
 
