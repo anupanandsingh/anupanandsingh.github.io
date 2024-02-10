@@ -6,20 +6,30 @@ description:
 nav: false
 ---
 
-**MATH2230 Discrete Mathematics | Workshop**\
-University of Leeds, Spring 2024
+<h4> Recent </h4>
 
-**MATH2080 Further Linear Algebra | Workshop**\
-University of Leeds, Autumn 2023
+*Lagrangian multiforms on coadjoint orbits*
+FDIS Antwerp
 
-**MATH1005 Core Mathematics | Tutorial**\
-University of Leeds, Spring 2023
+*Why Gauge?*
+Applied Mathematics PGR Seminar, University of Leeds
 
-**MATH1055 Numbers and Vectors | Tutorial**\
-University of Leeds, Autumn 2023
+<h4> Longer ago </h4>
 
-**MATH1050 Calculus and Mathematical Analysis | Tutorial**\
-University of Leeds, Autumn 2023
+*Open Questions: Actions, Combinatorics, and Causal Set Dynamics*
+Causal Set Virtual Seminar
 
-**MATH1005 Core Mathematics | Tutorial**\
-University of Leeds, Autumn 2023
+*Chaos in Quantum Mechanical Systems*
+ICTS String Theory Journal Club
+
+*Random Matrices in Three Short Stories*
+IISER Pune Science Club
+
+*Where to Park Your Spacecraft*
+IISER Pune Science Club
+
+*The Future of Gravitational Wave Astronomy and Unified Theories*
+IISER Pune Science Club
+
+*From Cicadas to Extra-Terrestrials: A Story of Prime Numbers*
+IISER Pune Science Club
