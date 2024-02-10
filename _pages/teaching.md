@@ -6,20 +6,20 @@ description:
 nav: false
 ---
 
-**MATH2230 Discrete Mathematics | Workshop**\
+<b>MATH2230 Discrete Mathematics | Workshop</b>\
 University of Leeds, Spring 2024
 
-**MATH2080 Further Linear Algebra | Workshop**\
+<b>MATH2080 Further Linear Algebra | Workshop</b>\
 University of Leeds, Autumn 2023
 
-**MATH1005 Core Mathematics | Tutorial**\
+<b>MATH1005 Core Mathematics | Tutorial</b>\
 University of Leeds, Spring 2023
 
-**MATH1055 Numbers and Vectors | Tutorial**\
+<b>MATH1055 Numbers and Vectors | Tutorial</b>\
 University of Leeds, Autumn 2023
 
-**MATH1050 Calculus and Mathematical Analysis | Tutorial**\
+<b>MATH1050 Calculus and Mathematical Analysis | Tutorial</b>\
 University of Leeds, Autumn 2023
 
-**MATH1005 Core Mathematics | Tutorial**\
+<b>MATH1005 Core Mathematics | Tutorial</b>\
 University of Leeds, Autumn 2023

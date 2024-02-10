@@ -8,33 +8,33 @@ nav: false
 
 <h4> Upcoming </h4>
 
-*Lagrangian multiforms on coadjoint orbits*\
+<b>Lagrangian multiforms on coadjoint orbits</b>\
 STAMP Edinburgh
 
 <h4> Recent </h4>
 
-*Lagrangian multiforms on coadjoint orbits*\
+<b>Lagrangian multiforms on coadjoint orbits</b>\
 FDIS Antwerp
 
-*Why Gauge?*\
+<b>Why Gauge?</b>\
 Applied Mathematics PGR Seminar, University of Leeds
 
 <h4> Longer ago </h4>
 
-*Open Questions: Actions, Combinatorics, and Causal Set Dynamics*\
+<b>Open Questions: Actions, Combinatorics, and Causal Set Dynamics</b>\
 Causal Set Virtual Seminar
 
-*Chaos in Quantum Mechanical Systems*\
+<b>Chaos in Quantum Mechanical Systems</b>\
 ICTS String Theory Journal Club
 
-*Random Matrices in Three Short Stories*\
+<b>Random Matrices in Three Short Stories</b>\
 IISER Pune Science Club
 
-*Where to Park Your Spacecraft*\
+<b>Where to Park Your Spacecraft</b>\
 IISER Pune Science Club
 
-*The Future of Gravitational Wave Astronomy and Unified Theories*\
+<b>The Future of Gravitational Wave Astronomy and Unified Theories</b>\
 IISER Pune Science Club
 
-*From Cicadas to Extra-Terrestrials: A Story of Prime Numbers*
+<b>From Cicadas to Extra-Terrestrials: A Story of Prime Numbers</b>
 IISER Pune Science Club
