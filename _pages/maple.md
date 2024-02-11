@@ -13,13 +13,11 @@ Starting February 20, 2024, talks will be held every other Tuesday from 11:00 to
 
 <hr>
 
-<h4> Spring 2024 </h4>
-
-<h5>February 20 | 11:00-12:00 </h5>
+<h5>February 20, 2024 | 11:00-12:00 </h5>
 **Path integral formulation of stochastic processes**\
 Steve Fitzgerald\
 Department of Applied Mathematics\
-School of Mathematics, University of Leeds
+University of Leeds
 
 <details>
 <summary>Abstract</summary>
@@ -33,3 +31,11 @@ In this talk I will introduce the formalism at a physicist’s level of rigour, 
 [2 Fitzgerald, Steve, et al. J. Chem. Phys. 158.12 (2023).
 
 </details>
+
+<hr>
+
+<h5>March 05, 2024 | 11:00-12:00 </h5>
+**The geodesic approximation and the $$L^2$$-geometry of vortex moduli spaces**\
+Gautam Chaudhuri\
+Department of Pure Mathematics\
+University of Leeds
