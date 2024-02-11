@@ -9,7 +9,7 @@ nav_order: 3
 
 The **Ma**thematical **P**hysics at **Le**eds Seminar Series is aimed at bringing together researchers at any level from across the University of Leeds — from both mathematics and physics departments alike — to give talks on themes in mathematical physics, broadly construed.
 
-Starting February 20, 2024, talks will be held every other Tuesday from 11:00 to 12:00 in the MALL on Level 8 in the main building of the School of Mathematics. If you would like to give a MaPLe seminar or want to be added to the mailing list, just drop an email to a.l.disney-hogg[at]leeds.ac.uk or mmaasi[at]leeds.ac.uk.
+Starting February 20, 2024, talks will be held every other Tuesday from 11:00 to 12:00 in the MALL on Level 8 in the main building of the School of Mathematics. The series is being organised by **<a href="https://eps.leeds.ac.uk/maths/staff/14138/dr-linden-disney-hogg" target="_self">Linden Disney-Hogg</a>** and **<a href="https://anupanand.space/" target="_self">Anup Anand Singh</a>**. If you would like to give a MaPLe seminar or want to be added to the mailing list, just drop an email to **a.l.disney-hogg[at]leeds.ac.uk** or **mmaasi[at]leeds.ac.uk**.
 
 <hr>
 
@@ -20,7 +20,7 @@ Department of Applied Mathematics\
 University of Leeds
 
 <details>
-<summary><span style="color: var(--global-text-color)">Abstract</span></summary>
+<summary>Abstract</summary>
 
 Traditionally, stochastic processes are modelled one of two ways: a continuum Fokker-Planck approach, where a PDE is solved to determine the time evolution of the probability density, or a Langevin approach, where the SDE describing the system is sampled, and multiple simulations are used to collect statistics. There is also a third way: the functional or path integral. Originally developed by Wiener in the 1920s to model Brownian motion, path integrals were famously applied to quantum mechanics by Feynman in the 1950s. However, they also have much to offer to classical stochastic processes (and statistical physics).  
 
@@ -40,6 +40,6 @@ In this talk I will introduce the formalism at a physicist’s level of rigour, 
 
 <h5>March 05, 2024 | 11:00-12:00 </h5>
 **The geodesic approximation and the $$L^2$$-geometry of vortex moduli spaces**\
-Gautam Chaudhuri\
+**<a href="https://eps.leeds.ac.uk/maths/pgr/10184/gautam-chaudhuri" target="_self">Gautam Chaudhuri</a>**\
 Department of Pure Mathematics\
 University of Leeds
