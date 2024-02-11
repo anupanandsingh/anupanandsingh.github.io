@@ -36,5 +36,5 @@ IISER Pune Science Club
 <b>The Future of Gravitational Wave Astronomy and Unified Theories</b>\
 IISER Pune Science Club
 
-<b>From Cicadas to Extra-Terrestrials: A Story of Prime Numbers</b>
+<b>From Cicadas to Extra-Terrestrials: A Story of Prime Numbers</b>\
 IISER Pune Science Club
