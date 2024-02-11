@@ -15,7 +15,7 @@ Starting February 20, 2024, talks will be held every other Tuesday from 11:00 to
 
 <h5>February 20, 2024 | 11:00-12:00 </h5>
 **Path integral formulation of stochastic processes**\
-Steve Fitzgerald\
+**<a href="https://eps.leeds.ac.uk/maths/staff/4022/dr-steve-fitzgerald" target="_self">Steve Fitzgerald</a>**\
 Department of Applied Mathematics\
 University of Leeds
 
