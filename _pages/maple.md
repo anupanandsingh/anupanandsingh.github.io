@@ -20,7 +20,7 @@ Department of Applied Mathematics\
 University of Leeds
 
 <details>
-<summary><span style="color:blue">Abstract</span></summary>
+<summary><span style="global-theme-color">Abstract</span></summary>
 
 Traditionally, stochastic processes are modelled one of two ways: a continuum Fokker-Planck approach, where a PDE is solved to determine the time evolution of the probability density, or a Langevin approach, where the SDE describing the system is sampled, and multiple simulations are used to collect statistics. There is also a third way: the functional or path integral. Originally developed by Wiener in the 1920s to model Brownian motion, path integrals were famously applied to quantum mechanics by Feynman in the 1950s. However, they also have much to offer to classical stochastic processes (and statistical physics).  
 
