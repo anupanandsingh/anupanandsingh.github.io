@@ -26,7 +26,7 @@ Traditionally, stochastic processes are modelled one of two ways: a continuum Fo
 
 <br><br>
 
-In this talk I will introduce the formalism at a physicist’s level of rigour, and focus on determining the dominant contribution to the path integral when the noise is weak. There exists a remarkable correspondence between the most-probable stochastic paths and Hamiltonian dynamics in an effective potential [1, 2]. I will then discuss some applications as time permits, including reaction pathways conditioned on finite time [2]. We demonstrate that the most probable pathway at a finite time may be very different from the usual minimum energy path used to calculate the average reaction rate.  
+In this talk, I will introduce the formalism at a physicist’s level of rigour, and focus on determining the dominant contribution to the path integral when the noise is weak. There exists a remarkable correspondence between the most-probable stochastic paths and Hamiltonian dynamics in an effective potential [1, 2]. I will then discuss some applications as time permits, including reaction pathways conditioned on finite time [2]. We demonstrate that the most probable pathway at a finite time may be very different from the usual minimum energy path used to calculate the average reaction rate.  
 
 <br><br>
 
