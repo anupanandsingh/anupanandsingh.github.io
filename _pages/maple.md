@@ -30,7 +30,7 @@ In this talk, I will introduce the formalism at a physicist’s level of rigour,
 
 <br><br>
 
-[1] Ge, Hao, and Hong Qian. <i>Int. J. Mod. Phys.</i> <b>B 26.24</b> 1230012 (2012)    
+[1] Ge, Hao, and Qian, Hong. <i>Int. J. Mod. Phys.</i> <b>B 26.24</b> 1230012 (2012)    
 <br>
 [2] Fitzgerald, Steve, et al. <i>J. Chem. Phys.</i> <b>158</b>.12 (2023)
 
