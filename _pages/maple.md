@@ -47,7 +47,7 @@ University of Leeds
 <hr>
 
 <h5>March 19, 2024 | 11:00-12:00 </h5>
-**TBA**\
+**Beyond the eigenstate thermalisation hypothesis: deep thermalisation in constrained quantum systems**\
 **<a href="https://eps.leeds.ac.uk/physics/pgr/11864/tanmay-bhore" target="_self">Tanmay Bhore</a>**\
 School of Physics and Astronomy\
 University of Leeds
