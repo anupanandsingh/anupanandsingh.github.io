@@ -9,7 +9,7 @@ nav_order: 3
 
 The **Ma**thematical **P**hysics at **Le**eds Seminar Series is aimed at bringing together researchers at any level from across the University of Leeds — from both mathematics and physics departments alike — to give talks on themes in mathematical physics, broadly construed. Starting February 20, 2024, talks will be held every other Tuesday from 11:00 to 12:00 in the MALL on Level 8 in the main building of the School of Mathematics.
 
-The series is being organised by **<a href="https://eps.leeds.ac.uk/maths/staff/14138/dr-linden-disney-hogg" target="_self">Linden Disney-Hogg</a>** and **<a href="https://anupanand.space/" target="_self">Anup Anand Singh</a>**. If you would like to give a MaPLe seminar or want to be added to the mailing list, just drop an email to **a.l.disney-hogg[at]leeds.ac.uk** or **mmaasi[at]leeds.ac.uk**.
+The series is being organised by **<a href="https://eps.leeds.ac.uk/maths/staff/14138/dr-linden-disney-hogg" target="_self">Linden Disney-Hogg</a>** and **<a href="https://anupanand.space/" target="_self">Anup Anand Singh</a>**. Slides/notes from the talks will be made available on the **<a href="https://teams.microsoft.com/_#/files/19:6744754bd5754d0294a5d896b2203e8a@thread.v2?ctx=chat" target="_self">MaPLe Teams chat</a>**. If you would like to give a MaPLe seminar or want to be added to the Teams chat and the mailing list, just drop an email to **a.l.disney-hogg[at]leeds.ac.uk** or **mmaasi[at]leeds.ac.uk**.
 
 <hr>
 
@@ -42,4 +42,12 @@ In this talk I will introduce the formalism at a physicist’s level of rigour, 
 **The geodesic approximation and the $$L^2$$-geometry of vortex moduli spaces**\
 **<a href="https://eps.leeds.ac.uk/maths/pgr/10184/gautam-chaudhuri" target="_self">Gautam Chaudhuri</a>**\
 Department of Pure Mathematics\
+University of Leeds
+
+<hr>
+
+<h5>March 19, 2024 | 11:00-12:00 </h5>
+**TBA**\
+**<a href="https://eps.leeds.ac.uk/physics/pgr/11864/tanmay-bhore" target="_self">Tanmay Bhore</a>**\
+School of Physics and Astronomy\
 University of Leeds
