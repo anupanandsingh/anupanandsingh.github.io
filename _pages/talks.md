@@ -9,7 +9,7 @@ nav: false
 <h4> Recent </h4>
 
 <b>Lagrangian multiform for the rational Gaudin model</b>\
-**<a href="https://www.birs.ca/events/2023/5-day-workshops/23w5043" target="_self">Lagrangian multiform theory and pluri-Lagrangian systems</a>**\
+**<a href="https://www.birs.ca/events/2023/5-day-workshops/23w5043" target="_self">Lagrangian Multiform Theory and Pluri-Lagrangian Systems</a>**\
 Hangzhou (Hybrid), October 2023
 
 <b>Lagrangian multiforms on coadjoint orbits</b>\
