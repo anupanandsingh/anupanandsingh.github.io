@@ -13,7 +13,7 @@ nav: false
 Hangzhou (Hybrid), October 2023
 
 <b>Lagrangian multiforms on coadjoint orbits</b>\
-**<a href="https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/fdis2023/" target="_self">Finite Dimensional Integrable Systems in Geometry and Mathematical Physics</a>**\
+**<a href="https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/fdis2023/" target="_self">Finite-Dimensional Integrable Systems in Geometry and Mathematical Physics</a>**\
 Antwerp, August 2023
 
 <b>Why gauge?</b>\
