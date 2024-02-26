@@ -63,3 +63,11 @@ We will begin with a brief overview of Abelian YMH theory and the existence of v
 **<a href="https://eps.leeds.ac.uk/physics/pgr/11864/tanmay-bhore" target="_self">Tanmay Bhore</a>**\
 School of Physics and Astronomy\
 University of Leeds
+
+<hr>
+
+<h5>April 30, 2024 | 11:00-12:00 </h5>
+**TBA**\
+**<a href="https://eps.leeds.ac.uk/maths/staff/4011/dr-vincent-caudrelier" target="_self">Vincent Caudrelier</a>**\
+School of Mathematics\
+University of Leeds
