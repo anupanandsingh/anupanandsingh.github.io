@@ -52,7 +52,7 @@ The geodesic approximation is a method by which the low-energy/non-relativistic 
 <br><br>
 
 In this talk I will introduce the geodesic approximation in the particular context of the dynamics of vortices in Abelian Yang-Mills-Higgs theory.
-We will begin with a brief overview of Abelian YMH theory and the existence of vortex solitons, moving onto the existence and structure of static vortex moduli spaces, and the validity of the geodesic approximation in the low-energy regime. The second half of the talk will focus on finer details about the vortex moduli space including the construction of the <i>L</i>^2-metric and some key geometric properties. Time permitting, we will mention some new results on how the vortex metric can itself be approximated in certain parametric limits.
+We will begin with a brief overview of Abelian YMH theory and the existence of vortex solitons, moving onto the existence and structure of static vortex moduli spaces, and the validity of the geodesic approximation in the low-energy regime. The second half of the talk will focus on finer details about the vortex moduli space including the construction of the <i>L</i>²-metric and some key geometric properties. Time permitting, we will mention some new results on how the vortex metric can itself be approximated in certain parametric limits.
 
 </details>
 
