@@ -16,7 +16,7 @@ The series is being organised by **<a href="https://eps.leeds.ac.uk/maths/staff/
 <h5>February 20, 2024 | 11:00-12:00 </h5>
 **Path integral formulation of stochastic processes**\
 **<a href="https://eps.leeds.ac.uk/maths/staff/4022/dr-steve-fitzgerald" target="_self">Steve Fitzgerald</a>**\
-Department of Applied Mathematics\
+School of Mathematics\
 University of Leeds
 
 <details>
@@ -41,8 +41,20 @@ In this talk, I will introduce the formalism at a physicist’s level of rigour,
 <h5>March 05, 2024 | 11:00-12:00 </h5>
 **The geodesic approximation and the $$L^2$$-geometry of vortex moduli spaces**\
 **<a href="https://eps.leeds.ac.uk/maths/pgr/10184/gautam-chaudhuri" target="_self">Gautam Chaudhuri</a>**\
-Department of Pure Mathematics\
+School of Mathematics\
 University of Leeds
+
+<details>
+<summary>Abstract</summary>
+
+The geodesic approximation is a method by which the low-energy/non-relativistic dynamics of solitons in a classical field theory are modelled by geodesics on a related <i>moduli space</i>. In practical terms, this reduces the problem of understanding soliton dynamics to studying the Riemannian geometry of the associated moduli space, often a more tractable problem. The moduli space constructed is also an object worthy of study in its own right, possessing canonical geometric structures beyond the Riemannian metric which can affect the soliton dynamics.
+
+<br><br>
+
+In this talk I will introduce the geodesic approximation in the particular context of the dynamics of vortices in Abelian Yang-Mills-Higgs theory.
+We will begin with a brief overview of Abelian YMH theory and the existence of vortex solitons, moving onto the existence and structure of static vortex moduli spaces, and the validity of the geodesic approximation in the low-energy regime. The second half of the talk will focus on finer details about the vortex moduli space including the construction of the L²-metric and some key geometric properties. Time permitting, we will mention some new results on how the vortex metric can itself be approximated in certain parametric limits.
+
+</details>
 
 <hr>
 
