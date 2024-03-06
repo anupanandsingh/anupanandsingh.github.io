@@ -8,6 +8,11 @@ nav: false
 
 <h4> Recent </h4>
 
+<b>Lagrangian multiforms on coadjoint orbits</b>\
+**<a href="https://higgs.ph.ed.ac.uk/event/lagrangian-multiforms-on-coadjoint-orbits" target="_self">Students in Theoretical and Mathematical Physics (STAMP), Higgs Centre for Theoretical Physics</a>**\
+Edinburgh, March 2024
+
+
 <b>Lagrangian multiform for the rational Gaudin model</b>\
 **<a href="https://www.birs.ca/events/2023/5-day-workshops/23w5043" target="_self">Lagrangian Multiform Theory and Pluri-Lagrangian Systems</a>**\
 Hangzhou (Hybrid), October 2023
