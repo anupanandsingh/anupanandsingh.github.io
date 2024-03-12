@@ -75,11 +75,11 @@ Performing measurements on a complementary subsystem, however, can reveal finer 
 
 <br><br>
 
-[1] **<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010311" target="_self">https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010311</a>**   
+[1] <a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010311" target="_self">https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010311</a>   
 <br>
-[2] **<a href="https://www.nature.com/articles/s41586-022-05442-1" target="_self">https://www.nature.com/articles/s41586-022-05442-1</a>**
+[2] <a href="https://www.nature.com/articles/s41586-022-05442-1" target="_self">https://www.nature.com/articles/s41586-022-05442-1</a>
 <br>
-[3] **<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.104317" target="_self">https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.104317</a>**
+[3] <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.104317" target="_self">https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.104317</a>
 
 </details>
 
