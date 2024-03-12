@@ -67,11 +67,11 @@ University of Leeds
 <details>
 <summary>Abstract</summary>
 
-The Eigenstate Thermalisation Hypothesis (ETH) is a powerful conjecture that explains the emergence of thermodynamics in isolated quantum systems. By postulating a connection between random matrix ensembles and deterministic unitary dynamics, ETH postulates that the reduced density matrix of a generic quantum system evolves to the universal form of a Gibbs ensemble. Then, 'thermalisation' occurs as entanglement builds up between a subsystem and its complement.
+The Eigenstate Thermalisation Hypothesis (ETH) is a powerful conjecture that explains the emergence of thermodynamics in isolated quantum systems. By postulating a connection between random matrix ensembles and deterministic unitary dynamics, ETH postulates that the reduced density matrix of a generic quantum system evolves to the universal form of a Gibbs ensemble. Then, "thermalisation" occurs as entanglement builds up between a subsystem and its complement.
 
 <br><br>
 
-Performing measurements on a complementary subsystem, however, can reveal finer nuances in the system’s ability to thermalise. This concept, dubbed as "deep thermalisation", promises to generalize ETH and has been recently realized in experiments on Rydberg atom arrays [1, 2]. In this talk, I will give a brief introduction to ETH and introduce this new formalism. I will also present the idea that systems which look ‘thermal’ in the ETH sense can be highly ‘non-thermal’ when probed through the lens of deep thermalisation [3]. This finding will be illustrated on several constrained models that describe slow relaxation in quantum glasses and quantum many-body scars in Rydberg atom arrays.
+Performing measurements on a complementary subsystem, however, can reveal finer nuances in the system's ability to thermalise. This concept, dubbed as "deep thermalisation", promises to generalize ETH and has been recently realised in experiments on Rydberg atom arrays [1, 2]. In this talk, I will give a brief introduction to ETH and introduce this new formalism. I will also present the idea that systems which look "thermal" in the ETH sense can be highly "non-thermal" when probed through the lens of deep thermalisation [3]. This finding will be illustrated on several constrained models that describe slow relaxation in quantum glasses and quantum many-body scars in Rydberg atom arrays.
 
 <br><br>
 
