@@ -64,6 +64,25 @@ We will begin with a brief overview of Abelian YMH theory and the existence of v
 School of Physics and Astronomy\
 University of Leeds
 
+<details>
+<summary>Abstract</summary>
+
+The Eigenstate Thermalisation Hypothesis (ETH) is a powerful conjecture that explains the emergence of thermodynamics in isolated quantum systems. By postulating a connection between random matrix ensembles and deterministic unitary dynamics, ETH postulates that the reduced density matrix of a generic quantum system evolves to the universal form of a Gibbs ensemble. Then, 'thermalisation' occurs as entanglement builds up between a subsystem and its complement.
+
+<br><br>
+
+Performing measurements on a complementary subsystem, however, can reveal finer nuances in the system’s ability to thermalise. This concept, dubbed as "deep thermalisation", promises to generalize ETH and has been recently realized in experiments on Rydberg atom arrays [1, 2]. In this talk, I will give a brief introduction to ETH and introduce this new formalism. I will also present the idea that systems which look ‘thermal’ in the ETH sense can be highly ‘non-thermal’ when probed through the lens of deep thermalisation [3]. This finding will be illustrated on several constrained models that describe slow relaxation in quantum glasses and quantum many-body scars in Rydberg atom arrays.
+
+<br><br>
+
+[1] **<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010311" target="_self">https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010311</a>**   
+<br>
+[2] **<a href="https://www.nature.com/articles/s41586-022-05442-1" target="_self">https://www.nature.com/articles/s41586-022-05442-1</a>**
+<br>
+[3] **<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.104317" target="_self">https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.104317</a>**
+
+</details>
+
 <hr>
 
 <h5>April 30, 2024 | 11:00-12:00 </h5>
