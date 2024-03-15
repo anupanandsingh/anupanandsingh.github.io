@@ -11,7 +11,7 @@ nav: false
 <b>Lagrangian multiforms on coadjoint orbits</b>\
 **<a href="https://higgs.ph.ed.ac.uk/event/lagrangian-multiforms-on-coadjoint-orbits" target="_self">Students in Theoretical and Mathematical Physics (STAMP), Higgs Centre for Theoretical Physics</a>**\
 Edinburgh, March 2024\
-<i>**<a href="/assets/pdf/STAMP_Mar24.pdf" target="_blank">Slides</a>** containing an introduction to Lagrangian one-forms, the theory of Lie dialgebras, the construction of a general Lagrangian one-form living on a coadjoint orbit, and an illustration of this construction for the finite rational Gaudin model. Based on **<a href="https://arxiv.org/abs/2307.07339" target="_self">joint work</a>** with Vincent Caudrelier and Marta Dell'Atti.</i>
+<p>**<a href="/assets/pdf/STAMP_Mar24.pdf" target="_blank">Slides</a>** containing an introduction to Lagrangian one-forms, the theory of Lie dialgebras, the construction of a general Lagrangian one-form living on a coadjoint orbit, and an illustration of this construction for the finite rational Gaudin model. Based on **<a href="https://arxiv.org/abs/2307.07339" target="_self">joint work</a>** with Vincent Caudrelier and Marta Dell'Atti.</p>
 
 
 <b>Lagrangian multiform for the rational Gaudin model</b>\
