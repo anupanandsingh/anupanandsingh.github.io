@@ -8,8 +8,6 @@ nav: false
 
 <h4> Recent </h4>
 
-<br>
-
 <b>Symmetries, integrability, and all that</b>\
 Applied Mathematics PGR Seminar, University of Leeds\
 Leeds, April 2024
@@ -43,11 +41,9 @@ Antwerp, August 2023
 Applied Mathematics PGR Seminar, University of Leeds\
 Leeds, January 2023
 
-<br>
+<hr>
 
 <h4> Longer ago </h4>
-
-<br>
 
 <b>Open questions: actions, combinatorics, and causal set dynamics</b>\
 Causal Set Virtual Seminar\
