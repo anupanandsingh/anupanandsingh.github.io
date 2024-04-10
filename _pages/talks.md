@@ -14,17 +14,28 @@ Edinburgh, March 2024\
 <b><a href="/assets/pdf/STAMP_Mar24.pdf" target="_blank">Slides</a></b> containing an introduction to Lagrangian one-forms, the theory of Lie dialgebras, the construction of a general Lagrangian one-form living on a coadjoint orbit, and an illustration of this construction for the finite rational Gaudin model. Based on <b><a href="https://arxiv.org/abs/2307.07339" target="_self">joint work</a></b> with Vincent Caudrelier and Marta Dell'Atti.
 
 
+<hr>
+
 <b>Lagrangian multiform for the rational Gaudin model</b>\
 **<a href="https://www.birs.ca/events/2023/5-day-workshops/23w5043" target="_self">Lagrangian Multiform Theory and Pluri-Lagrangian Systems</a>**\
-Hangzhou (Hybrid), October 2023
+Hangzhou (Hybrid), October 2023\
+<b><a href="/assets/pdf/BIRS_Oct23.pdf" target="_blank">Slides</a></b> containing an introduction to the theory of Lie dialgebras and the construction of a Lagrangian one-form for the finite rational Gaudin model. Based on <b><a href="https://arxiv.org/abs/2307.07339" target="_self">joint work</a></b> with Vincent Caudrelier and Marta Dell'Atti. **<a href="http://www.birs.ca/events/2023/5-day-workshops/23w5043/videos/watch/202310251530-Singh.html" target="_self">Here</a>** is a video recording of the talk. This talk was given in conjunction with the talk by Vincent Caudrelier -- the recording of which can be found **<a href="http://www.birs.ca/events/2023/5-day-workshops/23w5043/videos/watch/202310251345-Caudrelier.html" target="_self">here</a>**.
+
+
+
+<hr>
 
 <b>Lagrangian multiforms on coadjoint orbits</b>\
 **<a href="https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/fdis2023/" target="_self">Finite-Dimensional Integrable Systems in Geometry and Mathematical Physics</a>**\
 Antwerp, August 2023
 
+<hr>
+
 <b>Why gauge?</b>\
 Applied Mathematics PGR Seminar, University of Leeds\
 Leeds, January 2023
+
+<hr>
 
 <h4> Longer ago </h4>
 
