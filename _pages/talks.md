@@ -8,6 +8,12 @@ nav: false
 
 <h4> Recent </h4>
 
+<b>Symmetries, integrability, and all that?</b>\
+Applied Mathematics PGR Seminar, University of Leeds\
+Leeds, April 2024
+
+<hr>
+
 <b>Lagrangian multiforms on coadjoint orbits</b>\
 **<a href="https://higgs.ph.ed.ac.uk/event/lagrangian-multiforms-on-coadjoint-orbits" target="_self">Students in Theoretical and Mathematical Physics (STAMP), Higgs Centre for Theoretical Physics</a>**\
 Edinburgh, March 2024\
