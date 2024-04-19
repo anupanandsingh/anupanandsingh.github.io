@@ -90,3 +90,10 @@ Performing measurements on a complementary subsystem, however, can reveal finer 
 **<a href="https://eps.leeds.ac.uk/maths/staff/4011/dr-vincent-caudrelier" target="_self">Vincent Caudrelier</a>**\
 School of Mathematics\
 University of Leeds
+
+<details>
+<summary>Abstract</summary>
+
+The principle of least action associated to Lagrangians is a fundamental notion in many areas of science. Its alter ego, the Hamiltonian formalism is just as fundamental. In many instances, one can pass from one to the other (Legendre transform) and choose what is best suited to the task at hand. A famous development of the 20th century is quantum mechanics where one saw the Lagrangian formulation come back in full force with Feynman's breakthrough after canonical quantisation based on the Hamiltonian formalism had been the method of reference since the birth of the theory. When it comes to integrable systems, which possess a large amount of symmetries, the picture has been skewed towards the Hamiltonian formulation where the Liouville-Arnold theorem plays a crucial role. It was only in 2009, here in Leeds, that a Lagrangian framework emerged which encodes integrability via a generalised variational principle. I will present this framework and illustrate it in the simplest context of finite-dimensional systems (classical mechanics). I will sketch how the main ideas go over to field theory. Finally, I will briefly touch upon an important motivation for this programme: the quantisation of integrable systems via Feynman's path integral.
+
+</details>
