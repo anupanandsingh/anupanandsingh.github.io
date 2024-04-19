@@ -86,7 +86,7 @@ Performing measurements on a complementary subsystem, however, can reveal finer 
 <hr>
 
 <h5>April 30, 2024 | 11:00-12:00 </h5>
-**TBA**\
+**On the action principle for integrable systems**\
 **<a href="https://eps.leeds.ac.uk/maths/staff/4011/dr-vincent-caudrelier" target="_self">Vincent Caudrelier</a>**\
 School of Mathematics\
 University of Leeds
