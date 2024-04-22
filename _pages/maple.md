@@ -13,6 +13,8 @@ The series is being organised by **<a href="https://eps.leeds.ac.uk/maths/staff/
 
 <hr>
 
+<h4> Up next </h4>
+
 <h5>April 30, 2024 | 11:00-12:00 </h5>
 **On the action principle for integrable systems**\
 **<a href="https://eps.leeds.ac.uk/maths/staff/4011/dr-vincent-caudrelier" target="_self">Vincent Caudrelier</a>**\
