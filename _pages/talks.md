@@ -8,6 +8,13 @@ nav: false
 
 <h4> Recent </h4>
 
+<b>Geometry of coadjoint orbits</b>\
+Pure Mathematics PGR Seminar\
+University of Leeds\
+Leeds, April 2024
+
+<hr>
+
 <b>Symmetries, integrability, and all that</b>\
 Applied Mathematics PGR Seminar\
 University of Leeds\
