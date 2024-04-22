@@ -34,6 +34,13 @@ The principle of least action associated to Lagrangians is a fundamental notion 
 School of Mathematics\
 University of Leeds
 
+<details>
+<summary>Abstract</summary>
+
+TBA
+
+</details>
+
 <hr>
 
 <h5>February 20, 2024 | 11:00-12:00 </h5>
