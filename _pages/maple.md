@@ -98,6 +98,8 @@ The principle of least action associated to Lagrangians is a fundamental notion 
 
 </details>
 
+<hr>
+
 <h5>May 14, 2024 | 11:00-12:00 </h5>
 **An introduction to instantons in higher dimensions**\
 **<a href="https://eps.leeds.ac.uk/maths/pgr/8675/tathagata-ghosh" target="_self">Tathagata Ghosh</a>**\
