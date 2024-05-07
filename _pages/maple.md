@@ -114,7 +114,7 @@ In this talk I will gently introduce the notion of Yang—Mills instantons in hi
 
 <br><br>
 
-After reviewing 4-dimensional instantons, I will discuss the main physical motivations behind higher-dimensional instantons, by following the historical development of the subject. Then, I will introduce Güraydin—Nicolai instantons and Fairlie—Nuyts—Fubini—Nicolai (FNFN) instantons on ℝ^7 and ℝ^8 respectively. These are the earliest examples of instantons in dimensions 7 and 8 respectively, analogous to the BPST instantons on ℝ^4.
+After reviewing 4-dimensional instantons, I will discuss the main physical motivations behind higher-dimensional instantons, by following the historical development of the subject. Then, I will introduce Güraydin—Nicolai instantons and Fairlie—Nuyts—Fubini—Nicolai (FNFN) instantons on ℝ⁷ and ℝ⁸ respectively. These are the earliest examples of instantons in dimensions 7 and 8 respectively, analogous to the BPST instantons on ℝ⁴.
 
 <br><br>
 
