@@ -101,7 +101,7 @@ The principle of least action associated to Lagrangians is a fundamental notion 
 <hr>
 
 <h5>May 14, 2024 | 11:00-12:00 </h5>
-**An introduction to instantons in higher dimensions**\
+**Yang-Mills instantons in dimensions 7 and 8**\
 **<a href="https://eps.leeds.ac.uk/maths/pgr/8675/tathagata-ghosh" target="_self">Tathagata Ghosh</a>**\
 School of Mathematics\
 University of Leeds
@@ -109,6 +109,14 @@ University of Leeds
 <details>
 <summary>Abstract</summary>
 
-TBA
+In this talk I will gently introduce the notion of Yang--Mills instantons in higher dimensions, in particular, in dimensions 7 and 8. I will also briefly discuss the current research in this area, including my own, and how it fits into the bigger picture.
+
+<br><br>
+
+After reviewing 4-dimensional instantons, I will discuss the main physical motivations behind higher-dimensional instantons, by following the historical development of the subject. Then, I will introduce G\"uraydin--Nicolai instantons and Fairlie--Nuyts--Fubini--Nicolai (FNFN) instantons on $\mathbb{R}^7$ and $\mathbb{R}^8$ respectively. These are the earliest examples of instantons in dimensions 7 and 8 respectively, analogous to the BPST instantons on $\mathbb{R}^4$.
+
+<br><br>
+
+Finally, I will briefly explain how my own research on the deformation theory of instantons on asymptotically conical manifolds can provide many important properties of these instantons. 
 
 </details>
