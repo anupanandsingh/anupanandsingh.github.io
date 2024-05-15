@@ -126,7 +126,7 @@ Finally, I will briefly explain how my own research on the deformation theory of
 <hr>
 
 <h5>June 04, 2024 | 11:00-12:00 </h5>
-**K\"ahler manifolds, the Calabi construction, and harmonic spinors**\
+**Kähler manifolds, the Calabi construction, and harmonic spinors**\
 **<a href="https://researchportal.bath.ac.uk/en/persons/guido-franchetti" target="_self">Guido Franchetti</a>**\
 Department of Mathematical Sciences\
 University of Bath
