@@ -15,7 +15,7 @@ The series is being organised by **<a href="https://eps.leeds.ac.uk/maths/staff/
 
 
 
-<h5>June 04, 2024 | 11:00-12:00 </h5>
+<h5>June 04, 2024 | 11:00-12:00</h5>
 **Kähler manifolds, the Calabi construction, and harmonic spinors**\
 **<a href="https://researchportal.bath.ac.uk/en/persons/guido-franchetti" target="_self">Guido Franchetti</a>**\
 Department of Mathematical Sciences\
@@ -30,11 +30,12 @@ Harmonic spinors, that is, solutions of the massless Dirac equation, have been t
 
 <hr>
 
+<h5>Spring 2024</h5>
 
 <hr>
 
 
-<h5>February 20, 2024 | 11:00-12:00 </h5>
+<h5>February 20, 2024 | 11:00-12:00</h5>
 **Path integral formulation of stochastic processes**\
 **<a href="https://eps.leeds.ac.uk/maths/staff/4022/dr-steve-fitzgerald" target="_self">Steve Fitzgerald</a>**\
 School of Mathematics\
@@ -59,7 +60,7 @@ In this talk, I will introduce the formalism at a physicist’s level of rigour,
 
 <hr>
 
-<h5>March 05, 2024 | 11:00-12:00 </h5>
+<h5>March 05, 2024 | 11:00-12:00</h5>
 **The geodesic approximation and the $$L^2$$-geometry of vortex moduli spaces**\
 **<a href="https://eps.leeds.ac.uk/maths/pgr/10184/gautam-chaudhuri" target="_self">Gautam Chaudhuri</a>**\
 School of Mathematics\
@@ -79,7 +80,7 @@ We will begin with a brief overview of Abelian YMH theory and the existence of v
 
 <hr>
 
-<h5>March 19, 2024 | 11:00-12:00 </h5>
+<h5>March 19, 2024 | 11:00-12:00</h5>
 **Beyond the eigenstate thermalisation hypothesis: deep thermalisation in constrained quantum systems**\
 **<a href="https://eps.leeds.ac.uk/physics/pgr/11864/tanmay-bhore" target="_self">Tanmay Bhore</a>**\
 School of Physics and Astronomy\
@@ -106,7 +107,7 @@ Performing measurements on a complementary subsystem, however, can reveal finer 
 
 <hr>
 
-<h5>April 30, 2024 | 11:00-12:00 </h5>
+<h5>April 30, 2024 | 11:00-12:00</h5>
 **On the action principle for integrable systems**\
 **<a href="https://eps.leeds.ac.uk/maths/staff/4011/dr-vincent-caudrelier" target="_self">Vincent Caudrelier</a>**\
 School of Mathematics\
@@ -121,7 +122,7 @@ The principle of least action associated to Lagrangians is a fundamental notion 
 
 <hr>
 
-<h5>May 14, 2024 | 11:00-12:00 </h5>
+<h5>May 14, 2024 | 11:00-12:00</h5>
 **Yang–Mills instantons in dimensions 7 and 8**\
 **<a href="https://eps.leeds.ac.uk/maths/pgr/8675/tathagata-ghosh" target="_self">Tathagata Ghosh</a>**\
 School of Mathematics\
