@@ -7,3 +7,7 @@ Lagrangians
 programme
 instantons
 Güraydin
+Ricci-flat
+Kähler
+Calabi
+Eguchi-Hanson

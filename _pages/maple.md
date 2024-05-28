@@ -134,6 +134,6 @@ University of Bath
 <details>
 <summary>Abstract</summary>
 
-TBA
+Harmonic spinors, that is, solutions of the massless Dirac equation, have been the object of considerable interest from both the mathematical and physical communities. In the talk I will show how the rich structure of Kähler manifolds allows to recast the Dirac equation in a way which makes obtaining explicit solutions easier. The method will be applied to the Eguchi-Hanson manifold, for which we show how to reproduce known solutions, and to more general Ricci-flat Kähler manifolds obtained via the Calabi construction, for which we present new solutions.
 
 </details>
