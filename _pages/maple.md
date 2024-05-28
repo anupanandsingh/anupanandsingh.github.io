@@ -31,9 +31,6 @@ Harmonic spinors, that is, solutions of the massless Dirac equation, have been t
 <hr>
 
 
-**<a href="https://anupanand.space/maple/spring24" target="_self">Spring 2024</a>**
-
-
 <hr>
 
 
