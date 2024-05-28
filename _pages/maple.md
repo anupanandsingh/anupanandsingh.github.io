@@ -30,9 +30,8 @@ Harmonic spinors, that is, solutions of the massless Dirac equation, have been t
 
 <hr>
 
-<h5>Spring 2024</h5>
+<h4>Spring 2024</h4>
 
-<hr>
 
 
 <h5>February 20, 2024 | 11:00-12:00</h5>
