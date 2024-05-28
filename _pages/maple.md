@@ -31,11 +31,7 @@ Harmonic spinors, that is, solutions of the massless Dirac equation, have been t
 <hr>
 
 
-<br>
-
 <h4>Spring 2024</h4>
-
-<br>
 
 <h5>February 20, 2024 | 11:00-12:00</h5>
 **Path integral formulation of stochastic processes**\
