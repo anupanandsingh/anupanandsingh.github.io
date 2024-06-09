@@ -14,25 +14,6 @@ The series is being organised by **<a href="https://eps.leeds.ac.uk/maths/staff/
 <hr>
 
 
-
-<h5>June 04, 2024 | 11:00-12:00</h5>
-**Kähler manifolds, the Calabi construction, and harmonic spinors**\
-**<a href="https://researchportal.bath.ac.uk/en/persons/guido-franchetti" target="_self">Guido Franchetti</a>**\
-Department of Mathematical Sciences\
-University of Bath
-
-<details open>
-<summary>Abstract</summary>
-
-Harmonic spinors, that is, solutions of the massless Dirac equation, have been the object of considerable interest for both the mathematical and physical communities. In the talk I will show how the rich structure of Kähler manifolds allows to recast the Dirac equation in a way which makes obtaining explicit solutions easier. The method will be applied to the Eguchi-Hanson manifold, for which we show how to reproduce known solutions, and to more general Ricci-flat Kähler manifolds obtained via the Calabi construction, for which we present new solutions.
-
-</details>
-
-<hr>
-
-
-<h4>Spring 2024</h4>
-
 <h5>February 20, 2024 | 11:00-12:00</h5>
 **Path integral formulation of stochastic processes**\
 **<a href="https://eps.leeds.ac.uk/maths/staff/4022/dr-steve-fitzgerald" target="_self">Steve Fitzgerald</a>**\
@@ -142,4 +123,20 @@ Finally, I will briefly explain how my own research on the deformation theory of
 
 </details>
 
+<hr>
 
+
+<h5>June 04, 2024 | 11:00-12:00</h5>
+**Kähler manifolds, the Calabi construction, and harmonic spinors**\
+**<a href="https://researchportal.bath.ac.uk/en/persons/guido-franchetti" target="_self">Guido Franchetti</a>**\
+Department of Mathematical Sciences\
+University of Bath
+
+<details>
+<summary>Abstract</summary>
+
+Harmonic spinors, that is, solutions of the massless Dirac equation, have been the object of considerable interest for both the mathematical and physical communities. In the talk I will show how the rich structure of Kähler manifolds allows to recast the Dirac equation in a way which makes obtaining explicit solutions easier. The method will be applied to the Eguchi-Hanson manifold, for which we show how to reproduce known solutions, and to more general Ricci-flat Kähler manifolds obtained via the Calabi construction, for which we present new solutions.
+
+</details>
+
+<hr>
