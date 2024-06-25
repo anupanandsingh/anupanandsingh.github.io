@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-<h4>Integrability, gauge theories, and quantisation</h4>
+<h4>Integrability, gauge theory, and quantisation</h4>
 
 Much of my current work is rooted in the **<a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">$$r$$-matrix</a>** approach to integrable systems and the theory of **<a href="https://arxiv.org/abs/0903.4086" target="_self">Lagrangian multiforms</a>**. Together with my doctoral supervisors and our collaborators, I am developing a framework for systematically constructing Lagrangian multiforms, objects that provide a variational description of integrable hierarchies through a generalised action and a variational principle. Incorporating ingredients and ideas from the Hamiltonian framework for integrability -- in particular, the theory of Lie dialgebras -- we have achieved this for a large class of finite-dimensional integrable systems. 
 
