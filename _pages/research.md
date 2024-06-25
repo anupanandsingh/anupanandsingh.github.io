@@ -36,4 +36,9 @@ Abhishek Mathur, Anup Anand Singh, and Sumati Surya\
 
 For my **<a href="http://dr.iiserpune.ac.in:8080/xmlui/bitstream/handle/123456789/1047/MS%20Thesis%20-%20Anup%20Anand%20Singh.pdf" target="_self">MS thesis</a>** work done under the supervision of Prof. Spenta Wadia at the International Centre for Theoretical Sciences (ICTS-TIFR), Bengaluru, I tried to better understand the **<a href="https://arxiv.org/abs/0808.2096" target="_self">scrambling of information</a>** by black holes using ideas from holography, quantum information and chaotic dynamics. I focused, in particular, on the **<a href="https://arxiv.org/abs/1604.07818" target="_self">Sachdev-Ye-Kitaev (SYK) model</a>**, a strongly coupled, quantum many-body system that is **<a href="https://arxiv.org/abs/1503.01409" target="_self">maximally chaotic</a>**, nearly conformally invariant, and exactly solvable, properties that make it interesting from the point of view of holography. A new result from my MS project was a derivation of the effective action of a charged version of the SYK model achieved by reducing the original theory of Majorana fermions to a theory of bilocal fields.
 
+**<a href="http://dr.iiserpune.ac.in:8080/xmlui/bitstream/handle/123456789/1047/MS%20Thesis%20-%20Anup%20Anand%20Singh.pdf" target="_self">Chaos in field theory and gravity</a>**\
+Anup Anand Singh\
+Supervisor: Prof. Spenta Wadia\
+*MS Thesis*, May 2018
+
 <hr>
