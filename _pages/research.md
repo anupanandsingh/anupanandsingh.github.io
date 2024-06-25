@@ -19,7 +19,9 @@ Vincent Caudrelier, Anup Anand Singh, and Benoît Vicedo\
 Vincent Caudrelier, Marta Dell'Atti, and Anup Anand Singh\
 *Letters in Mathematical Physics*, Feb 2024
 
-At the moment, I am working towards incorporating affine models into our framework. A related long*ish*-term goal is to use our construction together with the path integral formalism to quantise integrable field theories in a covariant manner.
+This framework is a step in the direction of tackling the quantisation of integrable theories in a covariant manner, in particular, the quantisation of non-ultralocal integrable field theories.
+
+<!-- At the moment, I am working towards incorporating affine models into our framework. A related long*ish*-term goal is to use our construction together with the path integral formalism to quantise integrable field theories in a covariant manner. -->
 
 <hr>    
 
