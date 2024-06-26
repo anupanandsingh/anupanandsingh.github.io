@@ -35,7 +35,8 @@ As a visiting scholar at the Raman Research Institute, Bengaluru, I worked on **
 
 **<a href="https://iopscience.iop.org/article/10.1088/1361-6382/abd300" target="_self">Entropy and the link action in the causal set path-sum</a>**\
 Abhishek Mathur, Anup Anand Singh, and Sumati Surya\
-*Classical and Quantum Gravity*, Dec 2020
+*Classical and Quantum Gravity*, Dec 2020\
+**<a href="https://arxiv.org/abs/2009.07623" target="_self">arXiv:2009.07623</a>**
 
 
 <hr>
