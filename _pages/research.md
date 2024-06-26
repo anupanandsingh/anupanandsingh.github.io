@@ -14,12 +14,12 @@ Much of my current work is rooted in the **<a href="https://link.springer.com/ar
 **<a href="https://link.springer.com/article/10.1007/s11005-023-01766-9" target="_self">Lagrangian multiforms on coadjoint orbits for finite-dimensional integrable systems</a>**\
 Vincent Caudrelier, Marta Dell'Atti, and Anup Anand Singh\
 *Letters in Mathematical Physics*, Feb 2024\
-**<a href="https://arxiv.org/abs/2307.07339" target="_self">arXiv:2307.07339</a>**\
+**<a href="https://arxiv.org/abs/2307.07339" target="_self">arXiv:2307.07339</a>**
 
 **<a href="https://arxiv.org/abs/2405.12837" target="_self">Lagrangian multiform for cyclotomic Gaudin models</a>**\
 Vincent Caudrelier, Anup Anand Singh, and Benoît Vicedo\
 *Preprint*, May 2024\
-**<a href="https://arxiv.org/abs/2405.12837" target="_self">arXiv:2405.12837</a>**\
+**<a href="https://arxiv.org/abs/2405.12837" target="_self">arXiv:2405.12837</a>**
 
 This framework is a step in the direction of tackling the quantisation of integrable theories in a covariant manner, in particular, the quantisation of non-ultralocal integrable field theories.
 
