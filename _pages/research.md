@@ -21,7 +21,7 @@ Vincent Caudrelier, Anup Anand Singh, and Benoît Vicedo\
 *Preprint*, May 2024\
 **<a href="https://arxiv.org/abs/2405.12837" target="_self">arXiv:2405.12837</a>**
 
-This construction is a step towards a framework within which to attempt the covariant quantisation of integrable theories using path integral techniques.
+This construction is a step towards a framework within which to attempt the covariant quantisation of integrable theories using path integral techniques. At present, we are using gauge-theoretic ideas to incorporate an even more general class of integrable models -- Hitchin integrable systems -- within the multiform framework.
 
 <!-- Much of my current work is rooted in the **<a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">$$r$$-matrix</a>** approach to integrable systems and the theory of **<a href="https://arxiv.org/abs/0903.4086" target="_self">Lagrangian multiforms</a>**. Together with my doctoral supervisors and our collaborators, I am developing a framework for systematically constructing Lagrangian multiforms, objects that provide a variational description of integrable hierarchies through a generalised action and a variational principle. Incorporating ingredients and ideas from the Hamiltonian framework for integrability -- in particular, the theory of Lie dialgebras -- we have achieved this for a large class of finite-dimensional integrable systems. At the moment, I am working towards incorporating affine models into our framework. A related long*ish*-term goal is to use our construction together with the path integral formalism to quantise integrable field theories in a covariant manner. -->
 
