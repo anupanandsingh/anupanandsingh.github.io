@@ -51,3 +51,5 @@ Supervisor: Prof. Spenta Wadia\
 *MS Thesis*, May 2018
 
 <hr>
+
+*You can find a consolidated list of my preprints and publications **<a href="https://anupanand.space/research/" target="_self">here</a>**.*
