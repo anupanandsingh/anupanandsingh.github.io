@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /maple/spring24
+permalink: /maple/s24
 title: MaPLe
 description:
 nav: false
