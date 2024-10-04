@@ -29,11 +29,11 @@ TBA
 
 <hr>
 
-<h5>March 05, 2024 | 11:00-12:00</h5>
+<h5>November 05, 2024 | 10:00-11:00</h5>
 **TBA**\
-**<a href="https://eps.leeds.ac.uk/maths/pgr/10184/gautam-chaudhuri" target="_self">Gautam Chaudhuri</a>**\
-School of Mathematics\
-University of Leeds
+**<a href="https://katherineholmespublic.wordpress.com" target="_self">Katherine Holmes</a>**\
+Department of Mathematics\
+Imperial College London
 
 <details>
 <summary>Abstract</summary>
