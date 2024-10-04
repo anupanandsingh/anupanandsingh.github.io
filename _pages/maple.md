@@ -44,10 +44,10 @@ TBA
 
 <hr>
 
-<h5>March 19, 2024 | 11:00-12:00</h5>
+<h5>November 19, 2024 | 10:00-11:00</h5>
 **TBA**\
-**<a href="https://eps.leeds.ac.uk/physics/pgr/11864/tanmay-bhore" target="_self">Tanmay Bhore</a>**\
-School of Physics and Astronomy\
+**<a href="https://eps.leeds.ac.uk/maths/pgr/11714/benjamin-morris" target="_self">Benjamin Morris</a>**\
+School of Mathematics\
 University of Leeds
 
 <details>
@@ -59,9 +59,9 @@ TBA
 
 <hr>
 
-<h5>April 30, 2024 | 11:00-12:00</h5>
+<h5>December 03, 2024 | 10:00-11:00</h5>
 **TBA**\
-**<a href="https://eps.leeds.ac.uk/maths/staff/4011/dr-vincent-caudrelier" target="_self">Vincent Caudrelier</a>**\
+**<a href="https://eps.leeds.ac.uk/maths/staff/13156/dr-peter-gracar" target="_self">Peter Gracar</a>**\
 School of Mathematics\
 University of Leeds
 
