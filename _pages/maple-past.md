@@ -9,6 +9,8 @@ nav_order:
 
 <h4>Spring-Summer 2024</h4>
 
+<hr>
+
 
 <h5>February 20, 2024 | 11:00-12:00</h5>
 **Path integral formulation of stochastic processes**\
