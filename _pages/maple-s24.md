@@ -1,15 +1,11 @@
 ---
 layout: page
 permalink: /maple/s24
-title: MaPLe
+title: MaPLe | Spring-Summer 2024
 description:
 nav: false
 nav_order: 
 ---
-
-<h4> Spring-Summer 2024 </h4>
-
-<br>
 
 
 <h5>February 20, 2024 | 11:00-12:00</h5>
