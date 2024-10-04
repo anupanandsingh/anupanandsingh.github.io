@@ -1,11 +1,13 @@
 ---
 layout: page
-permalink: /maple/s24
-title: MaPLe | Spring-Summer 2024
+permalink: /maple/past
+title: MaPLe
 description:
 nav: false
 nav_order: 
 ---
+
+<h4>Spring-Summer 2024</h4>
 
 
 <h5>February 20, 2024 | 11:00-12:00</h5>
