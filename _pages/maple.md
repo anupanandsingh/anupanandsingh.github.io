@@ -14,10 +14,10 @@ The series is being organised by **<a href="https://eps.leeds.ac.uk/maths/staff/
 <hr>
 
 
-<h5>February 20, 2024 | 11:00-12:00</h5>
+<h5>October 22, 2024 | 10:00-11:00</h5>
 **TBA**\
-**<a href="https://eps.leeds.ac.uk/maths/staff/4022/dr-steve-fitzgerald" target="_self">Steve Fitzgerald</a>**\
-School of Mathematics\
+**<a href="https://theory.leeds.ac.uk/jiannis-pachos" target="_self">Jiannis K. Pachos</a>**\
+School of Physics and Astronomy\
 University of Leeds
 
 <details>
