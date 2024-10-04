@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /maple/spring24
+permalink: /maple/spring
 title: Seminars | Spring 2024
 description:
 nav: false
