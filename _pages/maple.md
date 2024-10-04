@@ -142,4 +142,4 @@ Harmonic spinors, that is, solutions of the massless Dirac equation, have been t
 <hr>
 
 
-*You can find a list of older MaPLe seminars **<a href="https://anupanand.space/maple/past" target="_self">here</a>**.*
+*A list of all past MaPLe seminars can be found **<a href="https://anupanand.space/maple/past" target="_self">here</a>**.*
