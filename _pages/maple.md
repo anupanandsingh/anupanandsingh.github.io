@@ -15,7 +15,7 @@ The series is being organised by **<a href="https://eps.leeds.ac.uk/maths/staff/
 
 
 <h5>October 22, 2024 | 10:00-11:00</h5>
-**Anyons**\
+**TBA**\
 **<a href="https://theory.leeds.ac.uk/jiannis-pachos" target="_self">Jiannis K. Pachos</a>**\
 School of Physics and Astronomy\
 University of Leeds
