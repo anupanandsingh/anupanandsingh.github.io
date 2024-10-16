@@ -15,7 +15,7 @@ The series is being organised by **<a href="https://eps.leeds.ac.uk/maths/staff/
 
 
 <h5>October 22, 2024 | 10:00-11:00</h5>
-**TBA**\
+**Anyons**\
 **<a href="https://theory.leeds.ac.uk/jiannis-pachos" target="_self">Jiannis K. Pachos</a>**\
 School of Physics and Astronomy\
 University of Leeds
@@ -23,7 +23,7 @@ University of Leeds
 <details>
 <summary>Abstract</summary>
 
-TBA
+Anyons are quasiparticles in two-dimensional systems that show statistical properties very distinct from those of bosons or fermions. While their isolated observation has not yet been achieved, it is possible to perform quantum simulations with physical systems that reveal central properties of anyons. In this talk I will present encoding and manipulation of anyons with quantum technology platforms that reveal their exotic statistical properties with the goal of eventually employing them for topological quantum computation.
 
 </details>
 
