@@ -52,4 +52,4 @@ Supervisor: Prof. Spenta Wadia\
 
 <hr>
 
-*You can find a list of my preprints and publications **<a href="https://anupanand.space/publications/" target="_self">here</a>**.*
+*You can find a consolidated list of my preprints and publications **<a href="https://anupanand.space/publications/" target="_self">here</a>**.*
