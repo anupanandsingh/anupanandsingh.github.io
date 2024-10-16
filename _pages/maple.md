@@ -68,7 +68,7 @@ University of Leeds
 <details>
 <summary>Abstract</summary>
 
-TBA
+tba
 
 </details>
 
