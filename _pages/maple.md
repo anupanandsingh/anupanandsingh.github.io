@@ -23,7 +23,7 @@ University of Leeds
 <details>
 <summary>Abstract</summary>
 
-Anyons are quasiparticles in two-dimensional systems that show statistical properties very distinct from those of bosons or fermions. While their isolated observation has not yet been achieved, it is possible to perform quantum simulations with physical systems that reveal central properties of anyons. In this talk I will present encoding and manipulation of anyons with quantum technology platforms that reveal their exotic statistical properties with the goal of eventually employing them for topological quantum computation.
+TBA
 
 </details>
 
