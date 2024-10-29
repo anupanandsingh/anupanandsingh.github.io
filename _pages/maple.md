@@ -38,7 +38,7 @@ Imperial College London
 <details>
 <summary>Abstract</summary>
 
-The classical billiard model has been used to study dynamical systems and chaos theory. Its quantum counterpart is the quantum billiard model, a toy model of quantum optical systems in QED cavities and quantum dots. The billiard model in both the classical and quantum regimes has been well documented in the literature, with a multitude of variations having been constructed. In recent years, we have seen the introduction of leaky billiards, billiards with loss mechanics such as internal holes and permeable boundaries.
+The classical billiard model has been used to study dynamical systems and chaos theory. Its quantum counterpart is the quantum billiard model, a toy model of quantum optical systems in QED cavities and quantum dots. The billiard model in both the classical and quantum regimes has been well-documented in the literature, with a multitude of variations having been constructed. In recent years, we have seen the introduction of leaky billiards, billiards with loss mechanics such as internal holes and permeable boundaries.
 
 <br><br>
 
