@@ -18,7 +18,7 @@ Vincent Caudrelier, Marta Dell'Atti, and Anup Anand Singh\
 
 **<a href="https://arxiv.org/abs/2405.12837" target="_self">Lagrangian multiform for cyclotomic Gaudin models</a>**\
 Vincent Caudrelier, Anup Anand Singh, and Benoît Vicedo\
-*Preprint*, May 2024\
+*To appear in SIGMA*, Nov 2024\
 **<a href="https://arxiv.org/abs/2405.12837" target="_self">arXiv:2405.12837</a>**
 
 At present, we are attempting to construct a Lagrangian multiform for the Hitchin integrable system using gauge-theoretic ideas. The Hitchin system is related to vector bundles on Riemann surfaces and unifies many interesting integrable models -- its multiform description will therefore be an important addition to the theory of Lagrangian multiforms. A related long*ish*-term goal is to use our construction together with the path integral formalism to tackle the quantisation of integrable hierarchies.
