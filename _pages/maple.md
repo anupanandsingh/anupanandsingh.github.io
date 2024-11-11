@@ -54,7 +54,7 @@ This talk is based on a paper soon to be released on arXiv: <i>Intensity landsca
 <hr>
 
 <h5>November 19, 2024 | 10:00-11:00</h5>
-**TBA**\
+**The Yang-Baxter equation and quantum group symmetry**\
 **<a href="https://eps.leeds.ac.uk/maths/pgr/11714/benjamin-morris" target="_self">Benjamin Morris</a>**\
 School of Mathematics\
 University of Leeds
@@ -62,7 +62,7 @@ University of Leeds
 <details>
 <summary>Abstract</summary>
 
-TBA
+We begin with an introduction to the Yang-Baxter equation, as a master equation for integrability in 2D lattice models in statistical mechanics. We will see that through the classification of (classes of) solutions to this equation it is natural to consider solutions related to physical symmetries known as quantum groups. We will then discuss a scheme for obtaining factorised solutions to the Yang-Baxter equation in a class of infinite-dimensional representations of the quantum group $$U_q(sl_n)$$.
 
 </details>
 
