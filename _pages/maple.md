@@ -62,7 +62,7 @@ University of Leeds
 <details>
 <summary>Abstract</summary>
 
-We begin with an introduction to the Yang-Baxter equation, as a master equation for integrability in 2D lattice models in statistical mechanics. We will see that through the classification of (classes of) solutions to this equation it is natural to consider solutions related to physical symmetries known as quantum groups. We will then discuss a scheme for obtaining factorised solutions to the Yang-Baxter equation in a class of infinite-dimensional representations of the quantum group <i>U𝑞sl(n)</i>.
+We begin with an introduction to the Yang-Baxter equation, as a master equation for integrability in 2D lattice models in statistical mechanics. We will see that through the classification of (classes of) solutions to this equation it is natural to consider solutions related to physical symmetries known as quantum groups. We will then discuss a scheme for obtaining factorised solutions to the Yang-Baxter equation in a class of infinite-dimensional representations of the quantum group <i>U𝑞sln</i>.
 
 </details>
 
