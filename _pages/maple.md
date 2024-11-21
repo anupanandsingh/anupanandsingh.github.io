@@ -69,7 +69,7 @@ We begin with an introduction to the Yang-Baxter equation, as a master equation 
 <hr>
 
 <h5>December 03, 2024 | 10:00-11:00</h5>
-**TBA**\
+**Random geometric graphs -- from discs to scale-free models**\
 **<a href="https://eps.leeds.ac.uk/maths/staff/13156/dr-peter-gracar" target="_self">Peter Gracar</a>**\
 School of Mathematics\
 University of Leeds
@@ -77,7 +77,8 @@ University of Leeds
 <details>
 <summary>Abstract</summary>
 
-TBA
+We take a look at several random geometric graphs (RGG) with increasing levels of complexity, starting from the classical Gilbert disc model with fixed radius and up to the weight-dependent random connection model. At each step, we discuss the heuristics of what the newly added complexity changes in the behaviour of the models and how it affects the criticality of the largest connected component and the typical distance between two points of this component.
+
 
 </details>
 
