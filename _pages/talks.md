@@ -12,7 +12,7 @@ nav: false
 **<a href="https://integrable-systems.leeds.ac.uk/seminar-activities/" target="_blank">Leeds Integrable Systems Seminar</a>**\
 University of Leeds\
 Leeds, November 2024\
-**A recording of the talk can be found <a href="https://youtu.be/fRvz6XceDAA?si=kpN0lNbxnCl6kIp6" target="_blank">here</a>** Based on **<a href="https://arxiv.org/abs/2307.07339" target="_self">joint work</a>** with Vincent Caudrelier and Marta Dell'Atti.
+A recording of the talk can be found **<a href="https://youtu.be/fRvz6XceDAA?si=kpN0lNbxnCl6kIp6" target="_blank">here</a>** Based on **<a href="https://arxiv.org/abs/2307.07339" target="_self">joint work</a>** with Vincent Caudrelier and Marta Dell'Atti.
 
 
 <hr>
