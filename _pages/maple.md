@@ -80,7 +80,20 @@ TBA
 
 <hr>
 
+<h5>May 06, 2025 | 10:00-11:00</h5>
+**TBA**\
+**<a href="https://eps.leeds.ac.uk/physics/pgr/11878/cristian-voinea" target="_self">Cristian Voinea</a>**\
+School of Physics and Astronomy\
+University of Leeds
 
+<details>
+<summary>Abstract</summary>
+
+TBA
+
+</details>
+
+<hr>
 
 
 *A list of all past MaPLe seminars can be found **<a href="https://anupanand.space/maple/past" target="_self">here</a>**.*
