@@ -60,6 +60,21 @@ TBA
 
 <hr>
 
+<h5>March 11, 2025 | 10:00-11:00</h5>
+**TBA**\
+**<a href="https://eps.leeds.ac.uk/maths/pgr/11712/lucas-gosling" target="_self">Lucas Gosling</a>**\
+School of Mathematics\
+University of Leeds
+
+<details>
+<summary>Abstract</summary>
+
+TBA
+
+</details>
+
+<hr>
+
 
 
 
