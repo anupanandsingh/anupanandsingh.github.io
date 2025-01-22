@@ -23,7 +23,7 @@ University of Leeds
 <details>
 <summary>Abstract</summary>
 
-The quest to understand out-of-equilibrium behavior of complex quantum systems represents one of the frontiers of contemporary quantum science. For a long time, the prevailing belief has been that complex quantum systems, comprising many interacting degrees of freedom, all suffer the same inevitable fate: that of thermalization, whereby the system relaxes towards a featureless thermal state, completely "forgetting" its initial condition. However, a flurry of recent works has unearthed a new paradigm of behavior in many well-known physical systems, including Rydberg atoms, lattice gauge theories, and certain kinds of frustrated magnets. Such systems have been understood to possess a subtle breakdown of ergodicity, now commonly known as "quantum many-body scars".  Quantum many-body scars exhibit fascinating properties, such as extreme sensitivity to initial conditions: while a system initialized randomly undergoes chaotic dynamics and thermalization, specific initial conditions can result in persistent dynamical revivals, surpassing native thermalization timescales. The discovery of quantum many-body scars has not only deepened our understanding of many-body quantum mechanics, but it also has direct practical relevance for improving the control over the delicate physical phenomena underpinning quantum technologies. In this talk, I will present a pedagogical overview of this fascinating new field of physics, highlighting a few of the remaining mysteries for theory and future experiments.
+The quest to understand out-of-equilibrium behaviour of complex quantum systems represents one of the frontiers of contemporary quantum science. For a long time, the prevailing belief has been that complex quantum systems, comprising many interacting degrees of freedom, all suffer the same inevitable fate: that of thermalisation, whereby the system relaxes towards a featureless thermal state, completely "forgetting" its initial condition. However, a flurry of recent works has unearthed a new paradigm of behaviour in many well-known physical systems, including Rydberg atoms, lattice gauge theories, and certain kinds of frustrated magnets. Such systems have been understood to possess a subtle breakdown of ergodicity, now commonly known as "quantum many-body scars".  Quantum many-body scars exhibit fascinating properties, such as extreme sensitivity to initial conditions: while a system initialised randomly undergoes chaotic dynamics and thermalisation, specific initial conditions can result in persistent dynamical revivals, surpassing native thermalisation timescales. The discovery of quantum many-body scars has not only deepened our understanding of many-body quantum mechanics, but it also has direct practical relevance for improving the control over the delicate physical phenomena underpinning quantum technologies. In this talk, I will present a pedagogical overview of this fascinating new field of physics, highlighting a few of the remaining mysteries for theory and future experiments.
 
 </details>
 
@@ -76,15 +76,7 @@ TBA
 <hr>
 
 <h5>March 25, 2025 | 10:00-11:00</h5>
-**TBA**\
 **TBA**
-
-<details>
-<summary>Abstract</summary>
-
-TBA
-
-</details>
 
 <hr>
 

@@ -18,3 +18,5 @@ Hamiltonians
 factorised
 behaviour
 ergodicity
+thermalisation
+initialised
