@@ -30,7 +30,7 @@ The quest to understand out-of-equilibrium behaviour of complex quantum systems 
 <hr>
 
 <h5>February 11, 2025 | 10:00-11:00</h5>
-**TBA**\
+**Discrete approximations for the induced connection**\
 **<a href="https://eps.leeds.ac.uk/maths/staff/4034/dr-derek-harland" target="_self">Derek Harland</a>**\
 School of Mathematics\
 University of Leeds
@@ -38,8 +38,7 @@ University of Leeds
 <details>
 <summary>Abstract</summary>
 
-TBA
-
+The induced connection is a natural connection on a subbundle of a vector bundle. In physics, it is known as the Berry connection, and its parallel transport operators give rise to the Berry phase. In this talk I will explain exactly what the Berry/induced connection is and present some work I have done on finding numerical approximations to its parallel transport. This will lead to some interesting(?) questions for the algebraists in the audience!
 
 </details>
 
