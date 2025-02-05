@@ -2,6 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+- name: Checkout
+  uses: actions/checkout@v4.2.2
+
+
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Anup
 middle_name: Anand
