@@ -45,7 +45,7 @@ The induced connection is a natural connection on a subbundle of a vector bundle
 <hr>
 
 <h5>February 25, 2025 | 10:00-11:00</h5>
-**TBA**\
+**Integrable vortices in the Abelian Higgs model**\
 **<a href="https://eps.leeds.ac.uk/maths/pgr/15317/nora-gavrea" target="_self">Nora Gavrea</a>**\
 School of Mathematics\
 University of Leeds
