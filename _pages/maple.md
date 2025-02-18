@@ -76,7 +76,7 @@ TBA
 
 <h5>March 25, 2025 | 10:00-11:00</h5>
 **TBA**\
-**Andrés R.~Anadón**
+**Andrés Rodríguez Anadón**
 
 <details>
 <summary>Abstract</summary>
