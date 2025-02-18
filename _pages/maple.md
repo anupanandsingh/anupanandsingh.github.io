@@ -76,7 +76,8 @@ TBA
 
 <h5>March 25, 2025 | 10:00-11:00</h5>
 **TBA**\
-**Andrés Rodríguez Anadón**
+**<a href="https://es.linkedin.com/in/andr%C3%A9s-r-anad%C3%B3n-a269781ba" target="_self">Andrés Rodríguez Anadón</a>**\
+Universidade de Santiago de Compostela
 
 <details>
 <summary>Abstract</summary>
