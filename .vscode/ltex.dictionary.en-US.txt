@@ -20,3 +20,9 @@ behaviour
 ergodicity
 thermalisation
 initialised
+solitons
+Dunajski
+generalised
+Bogomolny
+Painlevé
+sinh-Gordon

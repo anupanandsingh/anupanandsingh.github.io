@@ -53,7 +53,7 @@ University of Leeds
 <details>
 <summary>Abstract</summary>
 
-TBA
+Vortices are 2-dimensional topological solitons defined on a Riemann surface in the context of the Abelian Higgs model. Physically, they model magnetic flux tubes in superconductors. At critical coupling, they satisfy a 1st order system of PDEs called the Bogomolny equations. I will first review the derivation of these equations using a Bogomolny argument, and then derive the Taubes equation. Next, I will introduce a generalised Abelian Higgs energy functional, which gives rise to 5 different vortex equations (this has been carefully investigated by Nicholas Manton). For a constant curvature base surface, these equations turn out to be integrable, reducing to a Liouville equation. One can obtain further integrable vortex equations by choosing suitable conformal factors, and in this case, the Taubes equation becomes the sinh-Gordon or Tzitzeica equation. If we assume radial symmetry, these are equivalent to a Painlevé III ODE. I will discuss the construction of these vortices for the rest of the talk, which is a joint work with Maciej Dunajski.
 
 </details>
 
@@ -75,7 +75,14 @@ TBA
 <hr>
 
 <h5>March 25, 2025 | 10:00-11:00</h5>
-**TBA**
+**Andrés R.~Anadón**
+
+<details>
+<summary>Abstract</summary>
+
+TBA
+
+</details>
 
 <hr>
 
