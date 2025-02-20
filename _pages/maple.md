@@ -74,6 +74,22 @@ TBA
 
 <hr>
 
+<h5>March 18, 2025 | 10:00-11:00</h5>
+**TBA**\
+**<a href="https://www.kent.ac.uk/mathematics-statistics-actuarial-science/people/414/dunning-clare" target="_self">Clare Dunning</a>**\
+School of Engineering, Mathematics and Physics\
+University of Kent
+
+<details>
+<summary>Abstract</summary>
+
+TBA
+
+</details>
+
+<hr>
+
+
 <h5>March 25, 2025 | 10:00-11:00</h5>
 **TBA**\
 **<a href="https://es.linkedin.com/in/andr%C3%A9s-r-anad%C3%B3n-a269781ba" target="_self">Andrés Rodríguez Anadón</a>**\
