@@ -60,7 +60,7 @@ Vortices are 2-dimensional topological solitons defined on a Riemann surface in 
 <hr>
 
 <h5>March 11, 2025 | 10:00-11:00</h5>
-**TBA**\
+**Magnetic buoyancy in the solar tachocline**\
 **<a href="https://eps.leeds.ac.uk/maths/pgr/11712/lucas-gosling" target="_self">Lucas Gosling</a>**\
 School of Mathematics\
 University of Leeds
