@@ -83,7 +83,9 @@ University of Kent
 <details>
 <summary>Abstract</summary>
 
-TBA
+*Magnetic buoyancy* is the phenomenon for strong magnetic fields to reduce the pressure of electrically-conducting plasma, which can lead to gravitational instabilities. Starting from a toy model primarily of academic concern, magnetic buoyancy was seen as an interesting phenomenon with no known applications. Just one year after its conception, Eugene N. Parker hypothesised that magnetic buoyancy could be a component of the solar dynamo, explaining how the Sun uses this mechanism to redistribute its magnetic field generated deep beneath its surface. The first part of this talk will be a brief literature review summarising how our knowledge of magnetic buoyancy evolved over time, and how its applications were discovered.
+
+The second part of the talk will focus on overstability, i.e., states which exhibit oscillations which grow in time. There are two well-known physical mechanisms within the magnetic buoyancy instability (MBI) which drive overstable modes. I will describe these physical mechanisms and present the findings of my second paper, including the discovery of a third mechanism for overstability. Furthermore, generalising MBI to include variable diffusion restricts overstability, and our newly discovered mechanism is the only one possible in solar interiors. However, our fluid model does not provide sufficient physical insight to describe it, and we instead create a secondary flux tube model to capture the physics of the problem.
 
 </details>
 

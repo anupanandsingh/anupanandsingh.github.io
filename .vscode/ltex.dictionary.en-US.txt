@@ -26,3 +26,8 @@ generalised
 Bogomolny
 Painlevé
 sinh-Gordon
+summarising
+overstability
+generalising
+overstable
+hypothesised
