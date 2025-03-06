@@ -6,6 +6,9 @@ description:
 nav: false
 ---
 
+<b>MATH1300 Dynamics and Motion | Workshop</b>\
+University of Leeds, Spring 2025
+
 <b>MATH2080 Further Linear Algebra | Workshop</b>\
 University of Leeds, Autumn 2024
 
