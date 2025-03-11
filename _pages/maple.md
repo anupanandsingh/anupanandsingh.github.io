@@ -79,7 +79,7 @@ The second part of the talk will focus on overstability, i.e., states which exhi
 <hr>
 
 <h5>March 18, 2025 | 10:00-11:00</h5>
-**TBA**\
+**From the quantum sine-Gordon model to number theory via partitions**\
 **<a href="https://www.kent.ac.uk/mathematics-statistics-actuarial-science/people/414/dunning-clare" target="_self">Clare Dunning</a>**\
 School of Engineering, Mathematics and Physics\
 University of Kent
@@ -87,7 +87,7 @@ University of Kent
 <details>
 <summary>Abstract</summary>
 
-TBA
+Partitions of integers play a role in a variety of fields including number theory, representation theory and random matrix theory as well as being of independent interest in enumerative combinatorics. I will present several key concepts and discuss various places where partitions have arisen in my research.
 
 </details>
 

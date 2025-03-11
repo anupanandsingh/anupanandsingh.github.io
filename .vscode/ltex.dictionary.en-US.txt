@@ -31,3 +31,4 @@ overstability
 generalising
 overstable
 hypothesised
+enumerative
