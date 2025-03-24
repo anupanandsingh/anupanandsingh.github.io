@@ -94,20 +94,6 @@ Partitions of integers play a role in a variety of fields including number theor
 <hr>
 
 
-<h5>March 25, 2025 | 10:00-11:00</h5>
-**TBA**\
-**<a href="https://es.linkedin.com/in/andr%C3%A9s-r-anad%C3%B3n-a269781ba" target="_self">Andrés Rodríguez Anadón</a>**\
-Universidade de Santiago de Compostela
-
-<details>
-<summary>Abstract</summary>
-
-TBA
-
-</details>
-
-<hr>
-
 <h5>May 06, 2025 | 10:00-11:00</h5>
 **TBA**\
 **<a href="https://eps.leeds.ac.uk/physics/pgr/11878/cristian-voinea" target="_self">Cristian Voinea</a>**\
