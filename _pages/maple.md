@@ -95,7 +95,7 @@ Partitions of integers play a role in a variety of fields including number theor
 
 
 <h5>May 06, 2025 | 10:00-11:00</h5>
-**TBA**\
+**Regularizing 3D conformal field theories via the fuzzy sphere**\
 **<a href="https://eps.leeds.ac.uk/physics/pgr/11878/cristian-voinea" target="_self">Cristian Voinea</a>**\
 School of Physics and Astronomy\
 University of Leeds
