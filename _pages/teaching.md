@@ -22,10 +22,10 @@ University of Leeds, Autumn 2023
 University of Leeds, Spring 2023
 
 <b>MATH1055 Numbers and Vectors | Tutorial</b>\
-University of Leeds, Autumn 2023
+University of Leeds, Autumn 2022
 
 <b>MATH1050 Calculus and Mathematical Analysis | Tutorial</b>\
-University of Leeds, Autumn 2023
+University of Leeds, Autumn 2022
 
 <b>MATH1005 Core Mathematics | Tutorial</b>\
-University of Leeds, Autumn 2023
+University of Leeds, Autumn 2022
