@@ -8,9 +8,17 @@ nav: false
 
 <h4> Recent </h4>
 
+
+<b>Lagrangian multiforms, gauge theory, and integrable many-body systems</b>\
+Theoretical Physics Seminar\
+School of Physics and Astronomy, University of Leeds\
+Leeds, May 2025
+
+<hr>
+
 <b>Lagrangian multiforms on coadjoint orbits</b>\
 **<a href="https://integrable-systems.leeds.ac.uk/seminar-activities/" target="_blank">Leeds Integrable Systems Seminar</a>**\
-University of Leeds\
+School of Mathematics, University of Leeds\
 Leeds, November 2024\
 A recording of the talk can be found **<a href="https://www.youtube.com/watch?v=fRvz6XceDAA" target="_blank">here</a>**. Based on joint works with Vincent Caudrelier, Marta Dell'Atti, and Benoît Vicedo.
 
@@ -20,14 +28,14 @@ A recording of the talk can be found **<a href="https://www.youtube.com/watch?v=
 
 <b>Geometry of coadjoint orbits</b>\
 Pure Mathematics PGR Seminar\
-University of Leeds\
+School of Mathematics, University of Leeds\
 Leeds, April 2024
 
 <hr>
 
 <b>Symmetries, integrability, and all that</b>\
 Applied Mathematics PGR Seminar\
-University of Leeds\
+School of Mathematics, University of Leeds\
 Leeds, April 2024
 
 <hr>
@@ -60,7 +68,7 @@ Antwerp, August 2023
 
 <b>Why gauge?</b>\
 Applied Mathematics PGR Seminar\
-University of Leeds\
+School of Mathematics, University of Leeds\
 Leeds, January 2023
 
 <hr>
