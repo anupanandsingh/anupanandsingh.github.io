@@ -9,6 +9,14 @@ nav: false
 <h4> Recent </h4>
 
 
+<b>Lagrangian multiforms, 3d mixed BF theory, and Hitchin integrable systems</b>\
+**<a href="https://integrable-systems.leeds.ac.uk/geometry-and-quantisation-of-integrable-systems/" target="_blank">Geometry and Quantisation of Integrable Systems</a>**\
+LMS Classical and Quantum Integrability Workshop Series\
+School of Mathematics, University of Leeds\
+Leeds, May 2025
+
+<hr>
+
 <b>Lagrangian multiforms, gauge theory, and integrable many-body systems</b>\
 Theoretical Physics Seminar\
 School of Physics and Astronomy, University of Leeds\
