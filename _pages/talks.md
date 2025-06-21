@@ -10,7 +10,7 @@ nav: false
 
 
 <b>Lagrangian multiforms, 3d mixed BF theory, and Hitchin integrable systems</b>\
-**UK Meeting on Integrable and Conformal Field Theory (ICFT 2025)**\
+**<a href="https://nms.kcl.ac.uk/gerard.watts/icft2025/" target="_blank">UK Meeting on Integrable and Conformal Field Theory (ICFT 2025)</a>**\
 King's College London\
 London, June 2025
 
