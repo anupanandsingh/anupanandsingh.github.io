@@ -10,6 +10,20 @@ nav: false
 
 
 <b>Lagrangian multiforms, 3d mixed BF theory, and Hitchin integrable systems</b>\
+**UK Meeting on Integrable and Conformal Field Theory (ICFT 2025)**\
+King's College London\
+London, June 2025
+
+<hr>
+
+
+<b>Lagrangian multiforms for finite-dimensional integrable hierarchies</b>\
+**<a href="https://side15.unimi.it/" target="_blank">Symmetries and Integrability of Difference Equations (SIDE15)</a>**\
+Sirmione (Hybrid), June 2025
+
+<hr>
+
+<b>Lagrangian multiforms, 3d mixed BF theory, and Hitchin integrable systems</b>\
 **<a href="https://integrable-systems.leeds.ac.uk/geometry-and-quantisation-of-integrable-systems/" target="_blank">Geometry and Quantisation of Integrable Systems</a>**\
 LMS Classical and Quantum Integrability Workshop Series\
 School of Mathematics, University of Leeds\
