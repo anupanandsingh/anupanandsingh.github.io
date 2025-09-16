@@ -13,8 +13,6 @@ The series was co-founded, and organised between February 2024 and May 2025, by 
 
 <hr>
 
-<h4>2024</h4>
-
 
 <h5>February 20, 2024 | 11:00-12:00</h5>
 **Path integral formulation of stochastic processes**\
@@ -43,7 +41,7 @@ In this talk, I will introduce the formalism at a physicist’s level of rigour,
 
 <h5>March 05, 2024 | 11:00-12:00</h5>
 **The geodesic approximation and the $$L^2$$-geometry of vortex moduli spaces**\
-**<a href="https://eps.leeds.ac.uk/maths/pgr/10184/gautam-chaudhuri" target="_self">Gautam Chaudhuri</a>**\
+**<a href="https://eps.leeds.ac.uk/maths/pgr/10184/gautam-chaudhuri" target="_self">Cas Chaudhuri</a>**\
 School of Mathematics\
 University of Leeds
 
@@ -213,8 +211,6 @@ We take a look at several random geometric graphs (RGG) with increasing levels o
 </details>
 
 <hr>
-
-<h4>2025</h4>
 
 
 <h5>January 28, 2025 | 10:00-11:00</h5>
