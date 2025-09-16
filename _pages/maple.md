@@ -13,8 +13,6 @@ The series was co-founded, and organised between February 2024 and May 2025, by 
 
 <hr>
 
-<br>
-
 <h4>2024</h4>
 
 
