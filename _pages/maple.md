@@ -214,8 +214,6 @@ We take a look at several random geometric graphs (RGG) with increasing levels o
 
 <hr>
 
-<br>
-
 <h4>2025</h4>
 
 
