@@ -17,8 +17,6 @@ The series was co-founded, and organised between February 2024 and May 2025, by 
 
 <h4>2024</h4>
 
-<br>
-
 
 <h5>February 20, 2024 | 11:00-12:00</h5>
 **Path integral formulation of stochastic processes**\
@@ -221,8 +219,6 @@ We take a look at several random geometric graphs (RGG) with increasing levels o
 <br>
 
 <h4>2025</h4>
-
-<br>
 
 
 <h5>January 28, 2025 | 10:00-11:00</h5>
