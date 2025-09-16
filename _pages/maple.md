@@ -17,7 +17,7 @@ Below is a list of all MaPLe seminars held between February 2024 and May 2025.
 
 <h4>2024</h4>
 
-<hr>
+<br>
 
 
 <h5>February 20, 2024 | 11:00-12:00</h5>
@@ -220,7 +220,7 @@ We take a look at several random geometric graphs (RGG) with increasing levels o
 
 <h4>2025</h4>
 
-<hr>
+<br>
 
 
 <h5>January 28, 2025 | 10:00-11:00</h5>
