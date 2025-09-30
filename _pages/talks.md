@@ -8,6 +8,11 @@ nav: false
 
 <h4> Recent </h4>
 
+<b>3d mixed BF theory and Hitchin integrable hierarchies</b>
+**<a href="https://www.isqs.online/" target="_blank">XXIX International Conference on Integrable Systems and Quantum Symmetries (ISQS29)</a>**\
+Prague (Hybrid), July 2025
+
+<hr>
 
 <b>Lagrangian multiforms, 3d mixed BF theory, and Hitchin integrable systems</b>\
 **<a href="https://nms.kcl.ac.uk/gerard.watts/icft2025/" target="_blank">UK Meeting on Integrable and Conformal Field Theory (ICFT 2025)</a>**\
