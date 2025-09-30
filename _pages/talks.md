@@ -8,7 +8,7 @@ nav: false
 
 <h4> Recent </h4>
 
-<b>3d mixed BF theory and Hitchin integrable hierarchies</b>
+<b>3d mixed BF theory and Hitchin integrable hierarchies</b>\
 **<a href="https://www.isqs.online/" target="_blank">XXIX International Conference on Integrable Systems and Quantum Symmetries (ISQS29)</a>**\
 Prague (Hybrid), July 2025
 
