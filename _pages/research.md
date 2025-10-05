@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-<h4>Integrability, gauge theory, and quantisation</h4>
+<h4>Geometric Lagrangian one-forms and integrable hierarchies</h4>
 
 Much of my ongoing work is rooted in three major themes: the **<a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">$$r$$-matrix</a>** approach to integrable systems, the theory of **<a href="https://arxiv.org/abs/0903.4086" target="_self">Lagrangian multiforms</a>**, and the **<a href="https://arxiv.org/abs/1908.02289" target="_self">gauge-theoretic origins</a>** of integrable structures. Together with my doctoral supervisors and our collaborators, I am currently developing a framework for systematically constructing Lagrangian multiforms, objects that provide a variational description of integrable hierarchies through a generalised action and a variational principle. In the following two papers, we used the theory of Lie dialgebras to achieve this goal for a large class of finite-dimensional integrable systems:
 
