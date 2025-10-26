@@ -12,4 +12,4 @@ nav: false
 
 </div>
 
-*Names of authors listed alphabetically*
+*Authors listed alphabetically by last name, as is the standard practice in mathematical physics*
