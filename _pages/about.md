@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Associate in Mathematical Physics <br> Department of Mathematical Sciences, Loughborough University <br> United Kingdom
+subtitle: Research Associate in Mathematical Physics <br> Department of Mathematical Sciences <br> Loughborough University <br> United Kingdom
 
 profile:
   align:
