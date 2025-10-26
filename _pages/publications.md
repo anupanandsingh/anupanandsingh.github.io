@@ -11,3 +11,5 @@ nav: false
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
+
+*Names of authors listed alphabetically*
