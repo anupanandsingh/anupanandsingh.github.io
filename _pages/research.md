@@ -53,7 +53,7 @@ For my **<a href="http://dr.iiserpune.ac.in:8080/xmlui/bitstream/handle/12345678
 
 **<a href="http://dr.iiserpune.ac.in:8080/xmlui/bitstream/handle/123456789/1047/MS%20Thesis%20-%20Anup%20Anand%20Singh.pdf" target="_self">Chaos in field theory and gravity</a>**\
 Anup Anand Singh\
-Supervisor: Prof. Spenta Wadia\
+Supervisor: Spenta Wadia\
 *MS Thesis*, May 2018
 
 <hr>
