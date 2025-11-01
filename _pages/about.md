@@ -22,7 +22,7 @@ You can read more about my current research (and some past projects) **<a href="
 
 <hr>
 
-I am a member of the editorial team of the **<a href="https://www.mfo.de/outreach-media/snapshots" target="_self">Snapshots of modern mathematics from Oberwolfach</a>**, an outreach initiative of the Mathematisches Forschungsinstituts Oberwolfach. I also review articles for **<a href="https://www.ams.org/mr-database" target="_self">AMS Mathematical Reviews</a>**.
+I am on the editorial board of the **<a href="https://www.mfo.de/outreach-media/snapshots" target="_self">Snapshots of modern mathematics from Oberwolfach</a>**, an outreach initiative of the Mathematisches Forschungsinstituts Oberwolfach. I also review articles for **<a href="https://www.ams.org/mr-database" target="_self">AMS Mathematical Reviews</a>**.
 
 <hr>
 
