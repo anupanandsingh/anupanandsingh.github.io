@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Preprints and publications
 description:
-nav: true
+nav: false
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
