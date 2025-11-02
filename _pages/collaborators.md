@@ -19,4 +19,4 @@ nav: false
 <h4>Causal set theory</h4>
 
 Abhishek Mathur\
-<a href="https://sumatisuryaswebpage.wordpress.com" target="_self">Sumati Surya</a>\
+<a href="https://sumatisuryaswebpage.wordpress.com" target="_self">Sumati Surya</a>
