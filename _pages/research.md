@@ -8,8 +8,9 @@ nav_order: 4
 ---
 
 
-*A consolidated list of my preprints and publications can be found **<a href="https://anupanand.space/publications/" target="_self">here</a>**.*\
+*A consolidated list of my preprints and publications can be found **<a href="https://anupanand.space/publications/" target="_self">here</a>**.*
 
+<br>
 
 <h4>Lagrangian multiforms, integrability, and quantisation</h4>
 
