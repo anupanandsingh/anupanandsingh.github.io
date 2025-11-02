@@ -17,4 +17,5 @@ nav: false
 <h4>Book recommendations</h4>
 
 Midnight's Children, Salman Rushdie\
+One Hundred Years of Solitude, Gabriel García Márquez\
 Flights, Olga Tokarczuk
