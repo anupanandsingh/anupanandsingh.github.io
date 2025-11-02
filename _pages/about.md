@@ -22,11 +22,11 @@ You can read more about my current research (and some past projects) **<a href="
 
 <hr>
 
-At present, I am a research associate in the Geometry and Mathematical Physics group at Loughborough University, where I am mentored by <a href="https://matsvermeeren.xyz" target="_self">Mats Vermeeren</a>. My work is supported by the EPSRC project grant **<a href="https://gtr.ukri.org/projects?ref=EP%2FY006712%2F1" target="_self">Lagrangian Multiforms for Symmetries and Integrability: Classification, Geometry, and Applications</a>**. Between July 2025 and September 2025, I was a PhD student at the University of Leeds supported by an EPSRC Doctoral Training Partnership Studentship. With my supervisors <a href="https://eps.leeds.ac.uk/maths/staff/4011/dr-vincent-caudrelier" target="_self">Vincent Caudrelier</a> and <a href="https://eps.leeds.ac.uk/maths/staff/4034/dr-derek-harland" target="_self">Derek Harland</a> and our **<a href="https://anupanand.space/collaborators" target="_self">collaborators</a>**, I constructed a novel variational framework.
+At present, I am a research associate in the Geometry and Mathematical Physics group at Loughborough University, where I am mentored by <a href="https://matsvermeeren.xyz" target="_self">Mats Vermeeren</a>. My work is supported by the EPSRC project grant **<a href="https://gtr.ukri.org/projects?ref=EP%2FY006712%2F1" target="_self">Lagrangian Multiforms for Symmetries and Integrability: Classification, Geometry, and Applications</a>**. Between July 2025 and September 2025, I was a PhD student at the University of Leeds supported by an EPSRC Doctoral Training Partnership Studentship. With my supervisors **<a href="https://eps.leeds.ac.uk/maths/staff/4011/dr-vincent-caudrelier" target="_self">Vincent Caudrelier</a>** and **<a href="https://eps.leeds.ac.uk/maths/staff/4034/dr-derek-harland" target="_self">Derek Harland</a>** and our **<a href="https://anupanand.space/collaborators" target="_self">collaborators</a>**, I constructed a novel variational framework.
 
 <hr>
 
-I am on the editorial board of the **<a href="https://www.mfo.de/outreach-media/snapshots" target="_self">Snapshots of modern mathematics from Oberwolfach</a>**, an outreach initiative of the Mathematisches Forschungsinstituts Oberwolfach. I also review articles for **<a href="https://www.ams.org/mr-database" target="_self">AMS Mathematical Reviews</a>**.
+I am on the editorial board of the **<a href="https://www.mfo.de/outreach-media/snapshots" target="_self">Snapshots of Modern Mathematics From Oberwolfach</a>**, an outreach initiative of the Mathematisches Forschungsinstituts Oberwolfach. I also review articles for **<a href="https://www.ams.org/mr-database" target="_self">AMS Mathematical Reviews</a>**.
 
 <hr>
 
