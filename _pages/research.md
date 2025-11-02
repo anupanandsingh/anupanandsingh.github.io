@@ -7,11 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-
-*A consolidated list of my preprints and publications can be found **<a href="https://anupanand.space/publications/" target="_self">here</a>**.*
-
-<br>
-
 <h4>Lagrangian multiforms, integrability, and quantisation</h4>
 
 Much of my ongoing work is rooted in three major themes: the **<a href="https://link.springer.com/article/10.1007/BF01076717" target="_self">$$r$$-matrix</a>** approach to integrable systems, the theory of **<a href="https://arxiv.org/abs/0903.4086" target="_self">Lagrangian multiforms</a>**, and the **<a href="https://arxiv.org/abs/1908.02289" target="_self">gauge-theoretic origins</a>** of integrable structures. During my doctoral studies at the University of Leeds under the supervision of Vincent Caudrelier and Derek Harland, I developed a framework for systematically constructing Lagrangian multiforms, objects that provide a variational description of integrable hierarchies through a generalised action and a variational principle. In the following two papers, we used the theory of Lie dialgebras to achieve this goal for a large class of finite-dimensional integrable systems:
@@ -62,3 +57,6 @@ Supervisor: Spenta Wadia\
 *MS Thesis*, May 2018
 
 <hr>
+
+
+*You can find a consolidated list of my preprints and publications **<a href="https://anupanand.space/publications/" target="_self">here</a>**.*
