@@ -26,4 +26,4 @@ I am on the editorial board of the **<a href="https://www.mfo.de/outreach-media/
 
 <hr>
 
-I can be reached at **anupanandsingh[at]protonmail.com**.
+I am always happy to discuss research. You can reach me at **anupanandsingh[at]protonmail.com**.
