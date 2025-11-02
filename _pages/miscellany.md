@@ -16,5 +16,5 @@ nav: false
 
 <h4>Book recommendations</h4>
 
-Midnight's Children, Salman Rushdie
+Midnight's Children, Salman Rushdie\
 Flights, Olga Tokarczuk
