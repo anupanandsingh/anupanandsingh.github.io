@@ -30,4 +30,4 @@ I am on the editorial board of the **<a href="https://www.mfo.de/outreach-media/
 
 <hr>
 
-I am always happy to discuss research -- drop me a line at **anupanandsingh[at]protonmail.com**.
+I am always happy to discuss research --- drop me a line at **anupanandsingh[at]protonmail.com**.
