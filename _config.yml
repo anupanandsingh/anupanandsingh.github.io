@@ -10,7 +10,7 @@ email: anupanandsingh@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Studying mathematical physics at the University of Leeds
 footer_text:
-keywords: mathematical-physics, integrability, lagrangian-multiform, quantisation, gaudin-model, coadjoint-orbit, anup-anand-singh, anup-math, anup-physics  # add your own keywords or leave empty
+keywords: mathematical-physics, integrability, lagrangian-multiform, quantisation, gaudin-model, hitchin-system, coadjoint-orbit, anup-anand-singh, anup-math, anup-physics  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: a-web.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -141,15 +141,21 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-archives
+  - jekyll-archives-v2
   - jekyll-email-protect
   - jekyll-feed
-  - jekyll-github-metadata
+  - jekyll-get-json
   - jekyll-imagemagick
+  - jekyll-jupyter-notebook
+  - jekyll-link-attributes
+  - jekyll-minifier
   - jekyll-paginate-v2
+  - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
-  - jekyll-target-blank
+  - jekyll-tabs
+  - jekyll-terser
+  - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
 
