@@ -189,16 +189,48 @@ sass:
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
-jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-  layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
-  permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
+jekyll-archives-v2:
+  blog:
+    enabled:
+      - year
+      - tags
+      - categories
+    layouts:
+      year: archive-year
+      tag: archive-tag
+      category: archive-category
+    permalinks:
+      year: '/blog/:year/'
+      tag: '/blog/tag/:name/'
+      category: '/blog/category/:name/'
+
+  news:
+    enabled:
+      - year
+      - tags
+      - categories
+    layouts:
+      year: archive-year
+      tag: archive-tag
+      category: archive-category
+    permalinks:
+      year: '/news/:year/'
+      tag: '/news/tag/:name/'
+      category: '/news/category/:name/'
+
+  projects:
+    enabled:
+      - year
+      - tags
+      - categories
+    layouts:
+      year: archive-year
+      tag: archive-tag
+      category: archive-category
+    permalinks:
+      year: '/projects/:year/'
+      tag: '/projects/tag/:name/'
+      category: '/projects/category/:name/'
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
