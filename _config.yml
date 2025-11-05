@@ -141,16 +141,21 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-archives
-  - jekyll-diagrams
+  - jekyll-archives-v2
   - jekyll-email-protect
   - jekyll-feed
-  - jekyll-github-metadata
+  - jekyll-get-json
   - jekyll-imagemagick
+  - jekyll-jupyter-notebook
+  - jekyll-link-attributes
+  - jekyll-minifier
   - jekyll-paginate-v2
+  - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
-  - jekyll-target-blank
+  - jekyll-tabs
+  - jekyll-terser
+  - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
 
