@@ -16,7 +16,5 @@ nav: false
 
 <h4>Book recommendations</h4>
 
-One Hundred Years of Solitude, Gabriel García Márquez\
-The God of Small Things Novel, Arundhati Roy\
-Midnight's Children, Salman Rushdie\
+Midnight's Children, Salman Rushdie
 Flights, Olga Tokarczuk
