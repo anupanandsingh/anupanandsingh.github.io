@@ -158,6 +158,7 @@ plugins:
   - jemoji
   - jekyll-archives
   - jekyll-github-metadata
+  - jekyll-paginate-v2
 
 
 # Sitemap settings
