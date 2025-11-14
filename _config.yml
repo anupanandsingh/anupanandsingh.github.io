@@ -20,6 +20,27 @@ last_updated: true # set to true if you want to display last updated in the foot
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
+# Library Versions (for CDN links in head.html)
+# -----------------------------------------------------------------------------
+bootstrap:
+  version: "5.3.2"
+  integrity:
+    css: "sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
+mdb:
+  version: "4.20.0"
+  integrity:
+    css: "sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw="
+
+fontawesome:
+  version: "6.5.1"
+  integrity: "sha384-d0m54iYqlvNxAQ53595ryJrnImYLV3+awNsP9M+2AJDNQcngTUaZZP7MwLjjAaEx"
+
+academicons:
+  version: "1.9.2"
+  integrity: "sha384-XNNiOCN/ItIIXiWAXs8/FQF5CVwjHT+aS4FF2BTUNE5k+or4+XrY56Up+gEz2KFw"
+
+# -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
 # will use title and url fields
