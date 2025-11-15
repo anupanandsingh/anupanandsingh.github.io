@@ -18,6 +18,53 @@ url: https://anupanand.space # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+# CDN library shortcuts (top-level) — values used by includes
+bootstrap:
+  version: "5.3.2"
+  integrity:
+    css: "sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
+mdb:
+  version: "4.20.0"
+  integrity:
+    css: "sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw="
+    js: "sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA="
+
+fontawesome:
+  version: "6.5.1"
+  integrity: "sha384-d0m54iYqlvNxAQ53595ryJrnImYLV3+awNsP9M+2AJDNQcngTUaZZP7MwLjjAaEx"
+
+academicons:
+  version: "1.9.2"
+  integrity: "sha384-XNNiOCN/ItIIXiWAXs8/FQF5CVwjHT+aS4FF2BTUNE5k+or4+XrY56Up+gEz2KFw"
+
+jquery:
+  version: "3.6.0"
+  integrity: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+
+popper:
+  version: "2.11.8"
+  integrity: ""
+
+masonry:
+  version: "4.2.2"
+  integrity: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
+
+imagesloaded:
+  version: "5.0.0"
+  integrity:
+    js: "sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc="
+
+medium_zoom:
+  version: "1.1.0"
+  integrity: "sha256-ZgMyDAIYDYGxbcpJcfUnYwNevG/xi9OHKaR/8GK+jWc="
+
+mathjax:
+  version: "3.2.2"
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js"
+
+mermaid:
+  version: "10.7.0"
 
 # -----------------------------------------------------------------------------
 # RSS Feed
