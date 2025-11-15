@@ -1,27 +1,38 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-# Use an explicit Jekyll gem (not the `github-pages` meta-gem) so we can
-# upgrade plugins and run on current Ruby. This change means you won't be
-# pinned to GitHub Pages' supported gem versions — that's fine for local
-# builds and deploying to non-GitHub Pages hosts. If you still want to
-# publish on GitHub Pages, consider testing on their environment before
-# deploying.
-gem "jekyll", "~> 4.3"
+gem 'jekyll'
 
-# Plugins to enable for the site. These should be installed along with Jekyll.
+# Core plugins that directly affect site building
 group :jekyll_plugins do
-  gem "jekyll-sitemap"
-  gem "jekyll-feed"
-  gem "jekyll-seo-tag"
-  gem "jekyll-paginate-v2"
-  gem "jekyll-archives"
-  gem "jekyll-scholar"
-  gem "jekyll-github-metadata"
-  gem "jekyll-imagemagick"
-  gem "jekyll-email-protect"
-  gem "jekyll-target-blank"
-  gem "jekyll-twitter-plugin"
-  gem "jemoji"
-  gem "jekyll-diagrams"
+    gem 'jekyll-archives-v2'
+    gem 'jekyll-email-protect'
+    gem 'jekyll-feed'
+    gem 'jekyll-get-json'
+    gem 'jekyll-imagemagick'
+    gem 'jekyll-jupyter-notebook'
+    gem 'jekyll-link-attributes'
+    gem 'jekyll-minifier'
+    gem 'jekyll-paginate-v2'
+    gem 'jekyll-regex-replace'
+    gem 'jekyll-scholar'
+    gem 'jekyll-sitemap'
+    gem 'jekyll-tabs'
+    gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
+    gem 'jekyll-toc'
+    gem 'jekyll-twitter-plugin'
+    gem 'jemoji'
+
+    gem 'classifier-reborn'  # used for content categorization during the build
 end
 
+# Gems for development or external data fetching (outside :jekyll_plugins)
+group :other_plugins do
+    gem 'css_parser'
+    gem 'feedjira'
+    gem 'httparty'
+    gem 'observer'       # used by jekyll-scholar
+    gem 'ostruct'        # used by jekyll-twitter-plugin
+    # gem 'terser'         # used by jekyll-terser
+    # gem 'unicode_utils' -- should be already installed by jekyll
+    # gem 'webrick' -- should be already installed by jekyll
+end
